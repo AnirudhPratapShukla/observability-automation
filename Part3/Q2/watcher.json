@@ -1,0 +1,57 @@
+{
+  "trigger": {
+    "schedule": {
+      "interval": "1m"
+    }
+  },
+  "input": {
+    "search": {
+      "request": {
+        "indices": [
+          "service-status"
+        ],
+        "body": {
+          "size": 100,
+          "query": {
+            "bool": {
+              "filter": [
+                {
+                  "term": {
+                    "service_status.keyword": "DOWN"
+                  }
+                }
+              ]
+            }
+          },
+          "sort": [
+            {
+              "@timestamp": {
+                "order": "desc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "condition": {
+    "script": {
+      "source": "return ctx.payload.hits.total > 0;"
+    }
+  },
+  "actions": {
+    "send_email": {
+      "throttle_period": "10m",
+      "email": {
+        "from": "watcher@local.test",
+        "to": [
+          "alerts@local.test"
+        ],
+        "subject": "RBCAPP1 Service Down Alert",
+        "body": {
+          "text": "RBCAPP1 service outage detected.\n\nAffected service(s): {{#ctx.payload.hits.hits}}{{_source.service_name}} ({{_source.service_status}}) on {{_source.host_name}}\n{{/ctx.payload.hits.hits}}"
+        }
+      }
+    }
+  }
+}

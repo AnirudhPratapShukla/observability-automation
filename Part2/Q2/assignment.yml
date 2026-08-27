@@ -1,0 +1,76 @@
+---
+- name: RBCAPP1 Infrastructure Automation
+  hosts: rbcapp1
+  become: true
+
+  tasks:
+
+    - name: Verify service is installed
+      ansible.builtin.package:
+        name: "{{ service }}"
+        state: present
+      when: action == "verify_install"
+
+    - name: Check disk usage
+      ansible.builtin.shell: df -P / | awk 'NR==2 {print $5}' | tr -d '%'
+      register: disk_usage
+      changed_when: false
+      when: action == "check-disk"
+
+    - name: Display disk usage
+      ansible.builtin.debug:
+        msg: "{{ inventory_hostname }} disk usage is {{ disk_usage.stdout }}%"
+      when: action == "check-disk"
+
+    - name: Report high disk usage
+      ansible.builtin.debug:
+        msg: "ALERT: {{ inventory_hostname }} disk usage is above 80%"
+      when:
+        - action == "check-disk"
+        - disk_usage.stdout | int > 80
+
+    - name: Send disk usage alert email
+      community.general.mail:
+        host: "{{ smtp_host }}"
+        port: "{{ smtp_port | default(587) }}"
+        username: "{{ smtp_username }}"
+        password: "{{ smtp_password }}"
+        to: "{{ alert_email }}"
+        subject: "RBCAPP1 Disk Usage Alert - {{ inventory_hostname }}"
+        body: |
+          Disk usage alert for {{ inventory_hostname }}.
+
+          Current disk usage: {{ disk_usage.stdout }}%
+
+          The configured threshold is 80%.
+      delegate_to: localhost
+      when:
+        - action == "check-disk"
+        - disk_usage.stdout | int > 80
+
+    - name: Check rbcapp1 application status
+      ansible.builtin.uri:
+        url: "http://localhost:5000/healthcheck"
+        method: GET
+        return_content: true
+      register: app_health
+      when: action == "check-status"
+
+    - name: Extract application status
+      ansible.builtin.set_fact:
+        application_status: "{{ app_health.json.application_status }}"
+        service_statuses: "{{ app_health.json.services }}"
+      when: action == "check-status"
+
+    - name: Find services that are down
+      ansible.builtin.set_fact:
+        down_services: "{{ service_statuses | dict2items | selectattr('value', 'equalto', 'DOWN') | map(attribute='key') | list }}"
+      when: action == "check-status"
+
+    - name: Display rbcapp1 status
+      ansible.builtin.debug:
+        msg:
+          - "Application: rbcapp1"
+          - "Application Status: {{ application_status }}"
+          - "Services Down: {{ down_services | join(', ') if down_services | length > 0 else 'None' }}"
+      when: action == "check-status"
