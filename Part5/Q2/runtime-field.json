@@ -1,0 +1,10 @@
+{
+  "runtime": {
+    "service_label": {
+      "type": "keyword",
+      "script": {
+        "source": "if (doc['service_name'].size() != 0 && doc['host_name'].size() != 0) { emit(doc['service_name'].value + ' @ ' + doc['host_name'].value); }"
+      }
+    }
+  }
+}

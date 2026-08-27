@@ -1,0 +1,10 @@
+{
+  "description": "Enrich service status documents",
+  "processors": [
+    {
+      "script": {
+        "source": "if (ctx.host_name != null) { if (ctx.host_name == 'host1') { ctx.environment = 'prod'; } else if (ctx.host_name == 'host2') { ctx.environment = 'staging'; } else if (ctx.host_name == 'host3') { ctx.environment = 'dev'; } } if (ctx.service_status != null) { if (ctx.service_status == 'UP') { ctx.response_code = 1; } else if (ctx.service_status == 'DOWN') { ctx.response_code = 0; } }"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index_patterns": ["service-status-*"],
+  "template": {
+    "settings": {
+      "index.lifecycle.name": "service-status-policy",
+      "index.lifecycle.rollover_alias": "service-status"
+    },
+    "mappings": {
+      "properties": {
+        "service_name": {
+          "type": "keyword"
+        },
+        "service_status": {
+          "type": "keyword"
+        },
+        "host_name": {
+          "type": "keyword"
+        },
+        "@timestamp": {
+          "type": "date"
+        }
+      }
+    }
+  }
+}
