@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rbapp1-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rbapp1-service
+  template:
+    metadata:
+      labels:
+        app: rbapp1-service
+    spec:
+      containers:
+        - name: rbapp1-service
+          image: rbapp1-service:1.0
+          ports:
+            - containerPort: 5000
+          env:
+            - name: ES_HOST
+              value: "http://host.docker.internal:9200"
+            - name: ES_INDEX
+              value: "service-status"
