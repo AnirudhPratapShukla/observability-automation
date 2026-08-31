@@ -1,0 +1,6 @@
+2026-08-30 10:00:01 INFO httpd host1 Request received successfully
+2026-08-30 10:01:15 ERROR httpd host1 Request failed with response_code=500 response_time_ms=1250
+[2026-08-30T10:02:20Z] WARN rabbitMQ host2 Queue depth is high response_code=200 response_time_ms=350
+2026-08-30 10:03:30 INFO postgreSQL host3 Database connection successful
+2026-08-30 10:04:45 ERROR postgreSQL host3 Database connection failed response_code=503 response_time_ms=2100
+2026-08-30T10:05:55Z | INFO | payment | host4 | Payment processed | 200 | 180
