@@ -1,0 +1,56 @@
+{
+  "name": "rbcapp1-audit-security-alert",
+  "description": "Alert on repeated authentication failures or access denied events for rbcapp1",
+  "enabled": true,
+  "trigger": {
+    "schedule": {
+      "interval": "5m"
+    }
+  },
+  "input": {
+    "search": {
+      "request": {
+        "indices": [
+          "audit-logs-rbcapp1*"
+        ],
+        "body": {
+          "query": {
+            "bool": {
+              "filter": [
+                {
+                  "range": {
+                    "@timestamp": {
+                      "gte": "now-5m"
+                    }
+                  }
+                },
+                {
+                  "terms": {
+                    "event.action": [
+                      "authentication_failed",
+                      "access_denied"
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "condition": {
+    "compare": {
+      "ctx.payload.hits.total.value": {
+        "gt": 5
+      }
+    }
+  },
+  "actions": {
+    "log": {
+      "logging": {
+        "text": "Repeated authentication failures or access denied events detected for rbcapp1"
+      }
+    }
+  }
+}

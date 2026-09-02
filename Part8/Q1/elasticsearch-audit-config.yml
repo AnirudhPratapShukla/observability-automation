@@ -1,0 +1,17 @@
+# Elasticsearch Audit Logging Configuration
+# Part 8 - Q1
+
+xpack.security.audit.enabled: true
+
+# Capture required security-relevant events
+xpack.security.audit.logfile.events.include:
+  - authentication_success
+  - authentication_failed
+  - access_denied
+  - access_granted
+  - run_as_granted
+  - run_as_denied
+  - document_read
+  - document_write
+  - index_template_management
+  - ilm_policy_changes

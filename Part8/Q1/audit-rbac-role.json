@@ -1,0 +1,21 @@
+{
+  "cluster": [
+    "monitor"
+  ],
+  "indices": [
+    {
+      "names": [
+        "audit-logs-rbcapp1*"
+      ],
+      "privileges": [
+        "read",
+        "view_index_metadata"
+      ]
+    }
+  ],
+  "applications": [],
+  "run_as": [],
+  "metadata": {
+    "description": "Read-only access to rbcapp1 audit logs"
+  }
+}
