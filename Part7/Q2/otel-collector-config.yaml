@@ -1,0 +1,87 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: 0.0.0.0:4317
+      http:
+        endpoint: 0.0.0.0:4318
+
+  hostmetrics/host1:
+    collection_interval: 30s
+    scrapers:
+      cpu:
+      memory:
+      disk:
+
+  hostmetrics/host2:
+    collection_interval: 30s
+    scrapers:
+      cpu:
+      memory:
+      disk:
+
+  hostmetrics/host3:
+    collection_interval: 30s
+    scrapers:
+      cpu:
+      memory:
+      disk:
+
+
+processors:
+  memory_limiter:
+    check_interval: 1s
+    limit_mib: 400
+    spike_limit_mib: 100
+
+  batch:
+    timeout: 10s
+    send_batch_size: 1024
+
+
+exporters:
+  elasticsearch:
+    endpoints:
+      - http://host.docker.internal:9200
+    user: elastic
+    password: ${env:ELASTIC_PASSWORD}
+    tls:
+      insecure_skip_verify: true
+
+  otlp/apm:
+    endpoint: host.docker.internal:8200
+    tls:
+      insecure: true
+
+
+service:
+  pipelines:
+
+    traces:
+      receivers:
+        - otlp
+      processors:
+        - memory_limiter
+        - batch
+      exporters:
+        - otlp/apm
+
+    metrics:
+      receivers:
+        - otlp
+      processors:
+        - memory_limiter
+        - batch
+      exporters:
+        - elasticsearch
+
+    hostmetrics:
+      receivers:
+        - hostmetrics/host1
+        - hostmetrics/host2
+        - hostmetrics/host3
+      processors:
+        - memory_limiter
+        - batch
+      exporters:
+        - elasticsearch
