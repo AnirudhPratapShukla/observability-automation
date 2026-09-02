@@ -1,2 +1,6 @@
 Flask>=3.0,<4.0
 elasticsearch>=8.15,<9.0
+
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation-flask

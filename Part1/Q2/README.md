@@ -41,3 +41,26 @@ curl -X POST http://localhost:5000/add \
   -H 'Content-Type: application/json' \
   -d '{"service_name":"httpd","service_status":"UP","host_name":"host1","@timestamp":"2026-08-25T10:00:00Z"}'
 ```
+## OpenTelemetry Instrumentation
+
+The REST API is instrumented using the OpenTelemetry Python SDK.
+
+### Telemetry
+
+The application generates:
+
+- Distributed traces for API requests
+- Custom service status metrics
+- Span attributes for service name, host name, and service status
+- Elasticsearch child spans for Elasticsearch operations
+
+### Instrumented Endpoints
+
+- `POST /add`
+- `GET /healthcheck`
+- `GET /healthcheck/<service_name>`
+
+### Custom Metric
+
+```text
+rbcapp1.service.status
