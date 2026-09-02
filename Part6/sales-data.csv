@@ -1,0 +1,1001 @@
+property_id,property_type,neighborhood,city,sqft,sale_price,price_per_sqft,sale_date,status
+P0001,Condo,Westside,San Diego,3319,844984.21,254.59,2024-07-17,Sold
+P0002,Multi-Family,Downtown,Los Angeles,3471,2347263.75,676.25,2023-06-28,Sold
+P0003,Condo,South Bay,Sacramento,1595,535728.6,335.88,2023-02-24,Sold
+P0004,Condo,East Park,San Jose,2539,1459442.59,574.81,2023-01-14,Sold
+P0005,Single Family,Downtown,Sacramento,1336,433211.36,324.26,2024-11-20,Sold
+P0006,Single Family,East Park,Fresno,2170,1622769.4,747.82,2024-06-25,Sold
+P0007,Townhouse,South Bay,San Diego,4477,1941316.74,433.62,2024-08-23,Sold
+P0008,Single Family,Westside,Los Angeles,887,552645.35,623.05,2024-08-15,Closed
+P0009,Condo,North Hills,San Jose,1838,889187.64,483.78,2025-01-17,Sold
+P0010,Condo,South Bay,San Diego,3445,1236341.6,358.88,2023-05-27,Sold
+P0011,Townhouse,Downtown,San Diego,2593,1125984.32,434.24,2024-03-25,Sold
+P0012,Single Family,Westside,Fresno,3997,1564225.95,391.35,2024-07-02,Sold
+P0013,Multi-Family,Westside,San Jose,1570,972049.8,619.14,2025-03-21,Sold
+P0014,Multi-Family,South Bay,Sacramento,1710,1161329.4,679.14,2024-06-22,Sold
+P0015,Multi-Family,Downtown,Los Angeles,1598,1355439.58,848.21,2023-10-11,Sold
+P0016,Single Family,East Park,Sacramento,1326,796117.14,600.39,2025-05-14,Closed
+P0017,Single Family,South Bay,San Jose,2867,999006.15,348.45,2023-01-24,Sold
+P0018,Multi-Family,Downtown,San Jose,1156,435407.4,376.65,2023-11-20,Sold
+P0019,Condo,Westside,San Jose,2779,2199467.34,791.46,2024-09-03,Sold
+P0020,Single Family,South Bay,San Jose,2909,2382005.56,818.84,2025-12-22,Closed
+P0021,Townhouse,Westside,Los Angeles,779,198606.05,254.95,2025-01-13,Sold
+P0022,Single Family,East Park,Los Angeles,4296,2406318.48,560.13,2023-06-11,Sold
+P0023,Townhouse,South Bay,Fresno,1225,761986.75,622.03,2023-12-05,Closed
+P0024,Townhouse,East Park,San Jose,1567,1257313.79,802.37,2024-02-16,Closed
+P0025,Condo,Westside,Los Angeles,4384,2309403.52,526.78,2023-09-05,Sold
+P0026,Condo,Downtown,Los Angeles,786,451297.62,574.17,2024-04-16,Sold
+P0027,Townhouse,Downtown,Fresno,1637,368586.92,225.16,2023-03-06,Sold
+P0028,Condo,South Bay,Fresno,1840,1155924.8,628.22,2024-03-14,Closed
+P0029,Condo,Downtown,Los Angeles,1695,1196161.5,705.7,2025-04-13,Closed
+P0030,Single Family,Downtown,Los Angeles,2151,997633.8,463.8,2025-08-14,Closed
+P0031,Condo,Westside,San Diego,3682,1499789.06,407.33,2023-08-12,Closed
+P0032,Multi-Family,Westside,Los Angeles,1274,589428.84,462.66,2024-07-24,Closed
+P0033,Single Family,South Bay,Los Angeles,4009,3035213.9,757.1,2023-07-20,Sold
+P0034,Condo,East Park,Sacramento,4494,3077895.66,684.89,2024-04-29,Closed
+P0035,Condo,East Park,Los Angeles,1575,1195929.0,759.32,2023-05-01,Closed
+P0036,Townhouse,East Park,Fresno,1786,1430175.22,800.77,2025-07-20,Closed
+P0037,Single Family,South Bay,Fresno,1334,409844.82,307.23,2024-03-21,Sold
+P0038,Multi-Family,South Bay,Fresno,3763,1468021.56,390.12,2023-04-13,Sold
+P0039,Condo,Downtown,Fresno,932,767707.04,823.72,2023-06-14,Sold
+P0040,Single Family,South Bay,San Diego,3465,2624460.3,757.42,2025-04-06,Sold
+P0041,Townhouse,North Hills,San Diego,3236,760233.48,234.93,2025-12-06,Sold
+P0042,Townhouse,East Park,San Jose,1677,600298.92,357.96,2023-09-26,Sold
+P0043,Single Family,South Bay,San Diego,738,359442.9,487.05,2023-07-24,Sold
+P0044,Condo,North Hills,San Jose,1242,1000157.76,805.28,2023-05-21,Sold
+P0045,Single Family,South Bay,San Jose,2494,1842093.34,738.61,2024-09-11,Sold
+P0046,Single Family,South Bay,San Diego,4296,1159834.08,269.98,2023-08-25,Sold
+P0047,Condo,North Hills,Fresno,1854,1085034.96,585.24,2024-12-03,Closed
+P0048,Single Family,East Park,San Jose,1728,1359210.24,786.58,2023-04-15,Sold
+P0049,Townhouse,Westside,Sacramento,714,288084.72,403.48,2023-09-25,Closed
+P0050,Condo,South Bay,Los Angeles,2997,558880.56,186.48,2023-06-04,Sold
+P0051,Condo,Downtown,San Jose,3085,1697336.15,550.19,2025-05-30,Sold
+P0052,Townhouse,Westside,San Diego,4382,3528254.94,805.17,2023-03-23,Sold
+P0053,Condo,Westside,San Diego,2148,1509356.64,702.68,2025-04-12,Sold
+P0054,Townhouse,East Park,San Diego,4310,1966394.4,456.24,2024-01-03,Sold
+P0055,Multi-Family,Downtown,Sacramento,1352,956594.08,707.54,2023-08-10,Sold
+P0056,Townhouse,North Hills,San Diego,1517,1103025.87,727.11,2025-07-31,Sold
+P0057,Townhouse,North Hills,Los Angeles,796,495287.12,622.22,2025-03-27,Sold
+P0058,Townhouse,Downtown,Los Angeles,2138,1303731.02,609.79,2025-03-29,Sold
+P0059,Single Family,Downtown,Fresno,1431,814239.0,569.0,2024-06-27,Closed
+P0060,Multi-Family,South Bay,Fresno,2115,1413094.95,668.13,2024-10-04,Sold
+P0061,Townhouse,Downtown,Sacramento,2277,1782139.59,782.67,2024-01-25,Sold
+P0062,Townhouse,East Park,Los Angeles,2829,2263596.06,800.14,2024-02-08,Sold
+P0063,Townhouse,South Bay,San Jose,3252,1269320.64,390.32,2023-09-13,Closed
+P0064,Condo,Westside,Sacramento,2036,915405.96,449.61,2024-08-28,Closed
+P0065,Townhouse,East Park,Fresno,3474,2366662.5,681.25,2023-12-23,Sold
+P0066,Townhouse,East Park,Sacramento,1944,723615.12,372.23,2025-05-30,Closed
+P0067,Condo,Downtown,San Jose,3467,1120465.06,323.18,2025-08-27,Sold
+P0068,Townhouse,Westside,San Diego,1082,788063.88,728.34,2024-04-26,Sold
+P0069,Single Family,East Park,Sacramento,800,168768.0,210.96,2025-08-31,Sold
+P0070,Multi-Family,Westside,San Diego,3642,2354771.52,646.56,2025-10-09,Sold
+P0071,Multi-Family,Westside,San Diego,4356,2975801.4,683.15,2023-08-07,Closed
+P0072,Multi-Family,Westside,Sacramento,905,500881.3,553.46,2023-09-06,Sold
+P0073,Multi-Family,South Bay,Sacramento,3793,2948147.18,777.26,2025-10-30,Sold
+P0074,Townhouse,Westside,San Jose,3746,2836471.2,757.2,2025-07-10,Closed
+P0075,Single Family,North Hills,San Diego,3267,1111727.43,340.29,2025-06-19,Sold
+P0076,Condo,Westside,San Diego,2075,817985.75,394.21,2023-06-15,Closed
+P0077,Single Family,East Park,Sacramento,3542,1000189.96,282.38,2024-03-14,Sold
+P0078,Condo,East Park,Sacramento,2922,1438120.74,492.17,2023-05-08,Sold
+P0079,Multi-Family,Downtown,San Jose,4209,3241098.36,770.04,2025-02-18,Sold
+P0080,Condo,East Park,San Diego,3786,1670723.94,441.29,2025-05-08,Sold
+P0081,Townhouse,East Park,San Diego,2485,1255869.3,505.38,2025-03-07,Closed
+P0082,Single Family,East Park,Fresno,4466,1185767.66,265.51,2025-12-29,Sold
+P0083,Multi-Family,Westside,Los Angeles,1043,636897.52,610.64,2023-10-05,Sold
+P0084,Townhouse,North Hills,Sacramento,2252,899291.16,399.33,2025-07-20,Sold
+P0085,Townhouse,Downtown,Sacramento,3780,3089431.8,817.31,2025-05-13,Sold
+P0086,Condo,Downtown,Los Angeles,3768,2040032.88,541.41,2024-12-17,Sold
+P0087,Condo,Westside,San Diego,1712,536831.84,313.57,2023-02-11,Closed
+P0088,Multi-Family,North Hills,San Jose,3442,883354.88,256.64,2024-03-22,Sold
+P0089,Condo,North Hills,Los Angeles,3181,1866801.66,586.86,2023-08-23,Sold
+P0090,Multi-Family,Westside,Los Angeles,1977,1118547.06,565.78,2025-02-07,Sold
+P0091,Single Family,South Bay,Los Angeles,1117,722833.04,647.12,2024-09-09,Sold
+P0092,Single Family,South Bay,San Jose,2882,1345922.82,467.01,2025-01-28,Sold
+P0093,Single Family,East Park,San Jose,4179,1928357.76,461.44,2025-09-30,Closed
+P0094,Townhouse,South Bay,Fresno,3597,1016152.5,282.5,2023-12-27,Closed
+P0095,Townhouse,Westside,Los Angeles,2604,1228645.32,471.83,2024-07-03,Sold
+P0096,Multi-Family,North Hills,Los Angeles,4311,2078074.44,482.04,2025-08-09,Closed
+P0097,Condo,North Hills,San Jose,4185,1664625.6,397.76,2025-09-25,Sold
+P0098,Single Family,South Bay,San Diego,1845,1420299.45,769.81,2024-07-19,Sold
+P0099,Condo,East Park,Sacramento,1688,1118215.6,662.45,2025-09-27,Closed
+P0100,Condo,East Park,San Diego,3947,756047.85,191.55,2024-08-25,Sold
+P0101,Townhouse,East Park,Fresno,3419,1947599.16,569.64,2025-08-27,Sold
+P0102,Townhouse,North Hills,San Diego,2141,1393598.31,650.91,2024-07-08,Sold
+P0103,Condo,Westside,San Diego,3654,1129195.62,309.03,2023-09-02,Closed
+P0104,Townhouse,Downtown,San Diego,1832,1219141.04,665.47,2025-12-10,Sold
+P0105,Single Family,South Bay,San Diego,1631,687939.49,421.79,2024-09-11,Sold
+P0106,Condo,East Park,Los Angeles,886,737843.08,832.78,2024-08-21,Sold
+P0107,Multi-Family,North Hills,San Diego,3051,1130426.01,370.51,2025-09-07,Sold
+P0108,Single Family,Downtown,Sacramento,1734,1405424.34,810.51,2025-09-05,Closed
+P0109,Condo,Westside,Fresno,1003,568299.8,566.6,2023-04-20,Sold
+P0110,Multi-Family,South Bay,Fresno,1048,886534.64,845.93,2023-08-31,Sold
+P0111,Multi-Family,North Hills,Fresno,3877,2055275.24,530.12,2025-07-11,Closed
+P0112,Single Family,Westside,San Diego,1950,1093911.0,560.98,2023-05-04,Sold
+P0113,Condo,South Bay,Los Angeles,3405,798132.0,234.4,2024-05-06,Sold
+P0114,Townhouse,Downtown,San Diego,710,322134.1,453.71,2025-08-20,Sold
+P0115,Single Family,Westside,San Jose,3595,1328064.9,369.42,2025-07-18,Sold
+P0116,Condo,North Hills,San Diego,2441,627092.9,256.9,2024-04-05,Sold
+P0117,Townhouse,East Park,Los Angeles,944,274864.48,291.17,2024-09-21,Closed
+P0118,Townhouse,South Bay,Fresno,3520,1350764.8,383.74,2025-04-04,Closed
+P0119,Multi-Family,North Hills,Fresno,2493,583112.7,233.9,2023-03-23,Sold
+P0120,Townhouse,South Bay,Los Angeles,805,194157.95,241.19,2023-02-12,Sold
+P0121,Townhouse,Westside,Fresno,2627,1386294.17,527.71,2025-06-24,Closed
+P0122,Multi-Family,North Hills,Sacramento,3300,2394282.0,725.54,2023-07-06,Sold
+P0123,Townhouse,East Park,Sacramento,2015,1267414.85,628.99,2023-11-26,Sold
+P0124,Multi-Family,Downtown,San Jose,3413,2775724.64,813.28,2023-03-17,Sold
+P0125,Single Family,South Bay,Sacramento,2024,521524.08,257.67,2025-04-07,Closed
+P0126,Multi-Family,East Park,Los Angeles,922,281836.96,305.68,2025-01-10,Sold
+P0127,Multi-Family,East Park,Los Angeles,1793,982528.14,547.98,2024-08-12,Sold
+P0128,Condo,North Hills,Fresno,3280,1928443.2,587.94,2024-05-05,Sold
+P0129,Single Family,East Park,Los Angeles,2962,1342822.7,453.35,2024-04-05,Sold
+P0130,Townhouse,East Park,Sacramento,2741,2206176.08,804.88,2024-08-20,Closed
+P0131,Multi-Family,Westside,Fresno,1698,825312.9,486.05,2023-10-24,Sold
+P0132,Townhouse,South Bay,San Jose,4239,961278.03,226.77,2025-04-29,Sold
+P0133,Condo,East Park,Fresno,1858,1238264.1,666.45,2025-09-29,Closed
+P0134,Multi-Family,North Hills,San Diego,2113,850968.49,402.73,2025-02-11,Sold
+P0135,Single Family,North Hills,Sacramento,3042,1328106.78,436.59,2025-04-21,Closed
+P0136,Multi-Family,Downtown,San Diego,2281,1921149.44,842.24,2023-11-08,Sold
+P0137,Single Family,South Bay,Sacramento,4262,1053736.88,247.24,2025-06-20,Sold
+P0138,Single Family,East Park,San Jose,3659,1012006.22,276.58,2023-11-13,Sold
+P0139,Townhouse,South Bay,Sacramento,3252,2094645.72,644.11,2023-06-14,Sold
+P0140,Single Family,South Bay,Los Angeles,3267,2161251.18,661.54,2025-09-26,Sold
+P0141,Condo,Downtown,Sacramento,3285,2097636.75,638.55,2024-08-11,Sold
+P0142,Multi-Family,Westside,San Jose,3814,2305982.54,604.61,2023-07-25,Sold
+P0143,Townhouse,North Hills,San Jose,888,352829.04,397.33,2023-04-25,Closed
+P0144,Condo,Westside,San Diego,1296,445318.56,343.61,2025-04-23,Sold
+P0145,Multi-Family,South Bay,San Diego,3196,2440018.16,763.46,2024-05-08,Sold
+P0146,Townhouse,Downtown,Sacramento,2588,1571951.2,607.4,2025-07-30,Sold
+P0147,Multi-Family,North Hills,Fresno,3475,1898114.5,546.22,2023-06-01,Sold
+P0148,Multi-Family,North Hills,San Diego,3317,2735065.52,824.56,2024-05-27,Closed
+P0149,Multi-Family,South Bay,San Jose,4195,2113231.25,503.75,2024-04-30,Sold
+P0150,Townhouse,Downtown,Fresno,3564,1346479.2,377.8,2025-03-21,Sold
+P0151,Townhouse,Westside,Fresno,4429,2596678.41,586.29,2025-10-14,Sold
+P0152,Condo,Downtown,Los Angeles,1597,968628.41,606.53,2024-05-28,Sold
+P0153,Condo,Downtown,San Jose,3930,1868125.5,475.35,2025-01-17,Sold
+P0154,Condo,South Bay,San Jose,3761,1724004.79,458.39,2024-02-16,Sold
+P0155,Townhouse,North Hills,Los Angeles,4101,1190274.24,290.24,2025-09-13,Closed
+P0156,Multi-Family,South Bay,San Jose,1008,276504.48,274.31,2024-04-07,Sold
+P0157,Single Family,East Park,San Jose,3938,1749889.68,444.36,2024-06-25,Sold
+P0158,Single Family,Westside,Sacramento,3094,1346787.26,435.29,2025-01-30,Sold
+P0159,Condo,Downtown,Sacramento,3237,2500388.28,772.44,2024-11-02,Sold
+P0160,Single Family,Downtown,San Jose,3359,1523508.04,453.56,2023-10-14,Closed
+P0161,Multi-Family,East Park,San Jose,1175,288016.0,245.12,2023-10-05,Closed
+P0162,Multi-Family,Downtown,Sacramento,3105,2103078.6,677.32,2023-11-13,Closed
+P0163,Condo,East Park,Sacramento,1845,372542.4,201.92,2025-01-28,Sold
+P0164,Townhouse,Downtown,Sacramento,4203,1777869.0,423.0,2025-01-22,Sold
+P0165,Single Family,Westside,Fresno,1477,1223989.9,828.7,2025-07-20,Sold
+P0166,Condo,South Bay,San Diego,907,641385.05,707.15,2024-05-13,Sold
+P0167,Condo,Westside,San Jose,4098,2838520.68,692.66,2024-02-29,Sold
+P0168,Townhouse,Westside,San Diego,3930,3078604.8,783.36,2023-01-06,Sold
+P0169,Condo,Downtown,San Jose,3970,1178732.7,296.91,2023-02-22,Sold
+P0170,Townhouse,Downtown,San Diego,3111,1234849.23,396.93,2023-12-23,Closed
+P0171,Multi-Family,East Park,San Jose,2854,731052.1,256.15,2023-05-11,Sold
+P0172,Townhouse,East Park,Los Angeles,2551,1320321.07,517.57,2023-03-30,Sold
+P0173,Single Family,East Park,Sacramento,2661,1989603.09,747.69,2025-05-23,Sold
+P0174,Single Family,Westside,San Jose,4383,1026191.79,234.13,2023-10-31,Sold
+P0175,Townhouse,East Park,Fresno,2260,1912864.0,846.4,2025-12-22,Closed
+P0176,Condo,East Park,Sacramento,1106,786775.22,711.37,2023-08-23,Sold
+P0177,Multi-Family,East Park,Los Angeles,2394,974549.52,407.08,2025-07-17,Sold
+P0178,Townhouse,Westside,Sacramento,2448,953226.72,389.39,2024-06-06,Sold
+P0179,Multi-Family,Downtown,San Jose,1073,791112.17,737.29,2023-07-10,Sold
+P0180,Single Family,East Park,San Jose,2978,655725.82,220.19,2024-11-06,Closed
+P0181,Townhouse,South Bay,San Jose,4255,3376853.1,793.62,2023-04-16,Sold
+P0182,Condo,East Park,San Diego,1124,637544.04,567.21,2024-03-11,Sold
+P0183,Single Family,North Hills,Fresno,2134,1592817.6,746.4,2025-01-22,Sold
+P0184,Townhouse,Downtown,San Diego,4006,1872845.06,467.51,2023-02-23,Sold
+P0185,Townhouse,Downtown,San Diego,3578,2471718.18,690.81,2024-11-26,Sold
+P0186,Condo,Downtown,Los Angeles,3019,1873047.98,620.42,2023-05-23,Sold
+P0187,Condo,North Hills,San Jose,2240,1033289.6,461.29,2024-11-29,Sold
+P0188,Single Family,Westside,San Diego,3881,3146481.94,810.74,2023-06-23,Sold
+P0189,Multi-Family,East Park,Fresno,3460,811923.6,234.66,2025-06-26,Closed
+P0190,Single Family,North Hills,Sacramento,2396,869795.92,363.02,2025-11-15,Sold
+P0191,Townhouse,Downtown,San Diego,1860,1180002.6,634.41,2025-09-23,Closed
+P0192,Townhouse,Westside,San Diego,3154,683471.8,216.7,2024-02-23,Sold
+P0193,Multi-Family,East Park,San Diego,1885,753698.4,399.84,2023-01-16,Sold
+P0194,Townhouse,Downtown,Sacramento,2257,1211625.31,536.83,2024-04-16,Sold
+P0195,Townhouse,South Bay,Sacramento,2486,478704.16,192.56,2023-06-09,Closed
+P0196,Single Family,East Park,Los Angeles,3606,2195657.34,608.89,2024-08-15,Sold
+P0197,Townhouse,Downtown,Sacramento,1403,1005796.67,716.89,2025-07-31,Sold
+P0198,Single Family,East Park,San Jose,1696,800342.4,471.9,2025-03-31,Sold
+P0199,Single Family,South Bay,Los Angeles,1607,647878.12,403.16,2023-12-11,Sold
+P0200,Condo,Westside,Los Angeles,4410,3087308.7,700.07,2024-12-20,Sold
+P0201,Single Family,Westside,Sacramento,1748,545673.16,312.17,2023-11-10,Closed
+P0202,Townhouse,North Hills,San Diego,3790,2113683.0,557.7,2025-07-08,Closed
+P0203,Townhouse,South Bay,Los Angeles,979,483802.22,494.18,2024-09-12,Sold
+P0204,Multi-Family,Downtown,Los Angeles,2778,638134.38,229.71,2025-08-03,Sold
+P0205,Multi-Family,East Park,Fresno,4106,1528828.04,372.34,2023-07-04,Sold
+P0206,Townhouse,South Bay,Sacramento,2542,2005790.52,789.06,2024-01-21,Sold
+P0207,Single Family,South Bay,San Diego,953,459203.05,481.85,2024-12-04,Sold
+P0208,Condo,North Hills,San Jose,1714,1121144.54,654.11,2025-06-18,Sold
+P0209,Single Family,North Hills,Los Angeles,2286,1037569.68,453.88,2024-11-23,Sold
+P0210,Townhouse,North Hills,Fresno,1087,602024.08,553.84,2025-03-02,Sold
+P0211,Townhouse,North Hills,Sacramento,2065,484469.65,234.61,2023-10-17,Sold
+P0212,Townhouse,South Bay,Sacramento,3137,2054484.04,654.92,2023-06-23,Sold
+P0213,Single Family,East Park,Fresno,4030,1070448.6,265.62,2025-12-14,Sold
+P0214,Condo,North Hills,Sacramento,774,327355.56,422.94,2024-01-05,Sold
+P0215,Single Family,North Hills,Los Angeles,1627,1382917.46,849.98,2023-11-14,Sold
+P0216,Multi-Family,Westside,San Diego,3411,1383603.93,405.63,2023-09-26,Sold
+P0217,Multi-Family,Downtown,Sacramento,4105,2644482.05,644.21,2023-12-06,Sold
+P0218,Townhouse,East Park,San Diego,3470,2297556.4,662.12,2025-06-28,Sold
+P0219,Condo,North Hills,Fresno,1967,1626610.65,826.95,2025-08-18,Closed
+P0220,Multi-Family,Westside,San Diego,2591,1802092.32,695.52,2025-02-21,Sold
+P0221,Townhouse,South Bay,Los Angeles,4275,1485562.5,347.5,2025-09-11,Sold
+P0222,Townhouse,East Park,Fresno,1867,440985.4,236.2,2023-11-25,Sold
+P0223,Multi-Family,North Hills,Los Angeles,4103,1941170.33,473.11,2024-03-30,Closed
+P0224,Condo,East Park,Los Angeles,918,409079.16,445.62,2025-02-04,Sold
+P0225,Townhouse,Westside,San Diego,1619,322002.91,198.89,2023-07-22,Sold
+P0226,Condo,East Park,Sacramento,1875,1489987.5,794.66,2025-08-25,Sold
+P0227,Condo,Westside,Fresno,4410,1027882.8,233.08,2024-06-08,Closed
+P0228,Townhouse,Downtown,Los Angeles,1155,808546.2,700.04,2024-05-01,Sold
+P0229,Single Family,Downtown,Sacramento,2419,1470993.9,608.1,2025-07-25,Sold
+P0230,Condo,North Hills,Sacramento,3288,1727186.4,525.3,2024-05-10,Sold
+P0231,Condo,Downtown,Fresno,3218,1339943.02,416.39,2025-05-03,Sold
+P0232,Single Family,East Park,Sacramento,977,799948.06,818.78,2025-11-05,Sold
+P0233,Townhouse,Downtown,San Jose,3303,1450710.63,439.21,2025-02-03,Sold
+P0234,Townhouse,Westside,Los Angeles,2112,721353.6,341.55,2023-08-01,Sold
+P0235,Multi-Family,East Park,San Diego,2936,1194452.88,406.83,2023-12-25,Sold
+P0236,Single Family,North Hills,San Diego,958,632040.5,659.75,2025-07-26,Sold
+P0237,Townhouse,North Hills,Fresno,3940,1235741.6,313.64,2023-03-27,Closed
+P0238,Single Family,Westside,San Jose,4039,2196529.37,543.83,2024-06-02,Sold
+P0239,Townhouse,Downtown,San Jose,4231,2975069.96,703.16,2024-11-10,Closed
+P0240,Multi-Family,North Hills,San Diego,4343,1945707.43,448.01,2025-06-19,Closed
+P0241,Townhouse,Downtown,Sacramento,3534,1814143.56,513.34,2025-11-29,Sold
+P0242,Townhouse,North Hills,Los Angeles,2463,1437505.32,583.64,2024-01-05,Sold
+P0243,Multi-Family,South Bay,Sacramento,2043,1272421.26,622.82,2024-09-19,Sold
+P0244,Single Family,North Hills,Fresno,3525,1682905.5,477.42,2025-07-04,Closed
+P0245,Single Family,East Park,San Jose,1824,1109794.56,608.44,2023-04-28,Sold
+P0246,Single Family,Westside,Los Angeles,827,227970.82,275.66,2025-06-16,Sold
+P0247,Multi-Family,South Bay,Los Angeles,3888,2380466.88,612.26,2025-01-11,Sold
+P0248,Townhouse,East Park,Los Angeles,3481,1675927.45,481.45,2025-01-29,Sold
+P0249,Townhouse,Westside,Los Angeles,2868,1221366.48,425.86,2024-10-05,Sold
+P0250,Multi-Family,South Bay,Los Angeles,3713,1131165.45,304.65,2025-11-26,Sold
+P0251,Condo,South Bay,San Jose,3874,1372906.86,354.39,2025-07-02,Closed
+P0252,Multi-Family,Westside,Sacramento,1519,398236.23,262.17,2023-06-01,Sold
+P0253,Townhouse,Downtown,Fresno,4019,2559660.91,636.89,2024-10-16,Sold
+P0254,Condo,North Hills,Fresno,4350,1657219.5,380.97,2023-11-19,Sold
+P0255,Condo,East Park,Los Angeles,1197,1005527.88,840.04,2023-10-12,Sold
+P0256,Condo,South Bay,Los Angeles,2969,1672823.67,563.43,2025-08-15,Sold
+P0257,Multi-Family,East Park,Fresno,1966,878349.82,446.77,2025-09-07,Sold
+P0258,Multi-Family,East Park,Fresno,1213,1008597.37,831.49,2023-06-01,Sold
+P0259,Condo,East Park,Fresno,1225,941081.75,768.23,2024-01-08,Sold
+P0260,Townhouse,Westside,San Diego,4105,1080394.95,263.19,2023-11-10,Sold
+P0261,Townhouse,Downtown,San Jose,3605,1193507.35,331.07,2025-11-28,Sold
+P0262,Condo,North Hills,Fresno,3301,2709328.76,820.76,2024-07-16,Sold
+P0263,Condo,South Bay,Fresno,2758,1680890.68,609.46,2023-11-12,Sold
+P0264,Single Family,Downtown,Los Angeles,4151,3316773.53,799.03,2023-03-26,Sold
+P0265,Single Family,East Park,Fresno,3367,1081615.08,321.24,2025-05-03,Sold
+P0266,Condo,East Park,San Jose,3329,2732975.84,820.96,2025-09-16,Closed
+P0267,Multi-Family,East Park,Sacramento,998,640087.26,641.37,2023-11-20,Closed
+P0268,Townhouse,North Hills,San Jose,1535,626172.55,407.93,2023-10-22,Closed
+P0269,Single Family,North Hills,San Diego,1235,851717.75,689.65,2025-11-20,Closed
+P0270,Condo,Downtown,Los Angeles,1201,431411.21,359.21,2024-05-22,Sold
+P0271,Condo,Westside,San Jose,2273,1725184.27,758.99,2025-05-06,Sold
+P0272,Multi-Family,East Park,San Jose,1477,1021035.33,691.29,2025-10-17,Closed
+P0273,Multi-Family,Westside,San Diego,794,190822.02,240.33,2025-03-16,Sold
+P0274,Multi-Family,North Hills,Fresno,899,192260.14,213.86,2025-10-10,Sold
+P0275,Townhouse,North Hills,Sacramento,4170,1050923.4,252.02,2023-10-02,Sold
+P0276,Townhouse,South Bay,San Jose,885,396825.15,448.39,2024-02-03,Sold
+P0277,Single Family,Westside,Los Angeles,2282,1181733.7,517.85,2024-07-26,Closed
+P0278,Townhouse,Westside,San Diego,2228,1587628.24,712.58,2024-11-25,Closed
+P0279,Condo,North Hills,Sacramento,2748,568753.56,206.97,2023-03-21,Closed
+P0280,Condo,North Hills,Fresno,1310,767908.9,586.19,2025-11-21,Sold
+P0281,Townhouse,South Bay,Fresno,1365,605077.2,443.28,2024-09-04,Closed
+P0282,Single Family,North Hills,San Jose,3602,2006890.32,557.16,2025-08-30,Sold
+P0283,Multi-Family,North Hills,Fresno,2406,1374018.48,571.08,2023-02-24,Sold
+P0284,Condo,South Bay,Fresno,3654,783454.14,214.41,2025-09-10,Closed
+P0285,Single Family,South Bay,Los Angeles,1305,953315.55,730.51,2024-05-11,Sold
+P0286,Condo,East Park,San Diego,777,369463.5,475.5,2025-05-07,Closed
+P0287,Single Family,Westside,Fresno,2755,1926378.65,699.23,2025-08-23,Sold
+P0288,Multi-Family,North Hills,San Diego,2997,1192146.66,397.78,2025-09-06,Closed
+P0289,Townhouse,South Bay,Sacramento,4436,2383019.2,537.2,2024-12-26,Sold
+P0290,Condo,North Hills,San Jose,1709,627083.37,366.93,2024-09-03,Sold
+P0291,Multi-Family,North Hills,Fresno,3527,2300803.18,652.34,2024-10-11,Sold
+P0292,Multi-Family,North Hills,San Diego,1878,491397.48,261.66,2025-02-16,Sold
+P0293,Townhouse,East Park,San Jose,872,325003.12,372.71,2023-06-11,Closed
+P0294,Townhouse,Westside,Los Angeles,1576,497054.64,315.39,2024-07-09,Sold
+P0295,Condo,Westside,Los Angeles,1693,362318.93,214.01,2025-12-23,Sold
+P0296,Single Family,Westside,Los Angeles,2392,959909.6,401.3,2025-08-25,Sold
+P0297,Multi-Family,Westside,San Jose,2366,1460863.04,617.44,2025-09-01,Sold
+P0298,Condo,South Bay,Los Angeles,1869,1145229.75,612.75,2023-07-03,Sold
+P0299,Single Family,East Park,Sacramento,2411,1859122.1,771.1,2023-12-27,Sold
+P0300,Single Family,Downtown,San Jose,3767,3106381.21,824.63,2024-08-15,Sold
+P0301,Multi-Family,Westside,Fresno,2072,768007.52,370.66,2025-12-09,Closed
+P0302,Townhouse,Westside,Sacramento,1817,561780.06,309.18,2023-08-19,Sold
+P0303,Townhouse,South Bay,San Diego,3643,1110204.25,304.75,2024-11-21,Sold
+P0304,Multi-Family,South Bay,San Jose,3202,2413091.24,753.62,2025-04-10,Sold
+P0305,Condo,East Park,San Jose,2341,1471084.4,628.4,2024-01-14,Sold
+P0306,Multi-Family,North Hills,San Jose,727,257888.71,354.73,2024-04-27,Sold
+P0307,Townhouse,North Hills,San Diego,3085,2049458.05,664.33,2023-01-24,Sold
+P0308,Condo,East Park,Fresno,3435,890386.35,259.21,2024-09-20,Sold
+P0309,Townhouse,South Bay,San Diego,3527,912329.09,258.67,2024-08-27,Sold
+P0310,Townhouse,East Park,Fresno,1247,623973.86,500.38,2025-07-20,Closed
+P0311,Condo,South Bay,Los Angeles,3802,2053612.28,540.14,2024-03-23,Closed
+P0312,Single Family,Downtown,Fresno,2863,1865301.76,651.52,2023-06-09,Sold
+P0313,Townhouse,South Bay,Sacramento,3045,1642960.2,539.56,2023-12-03,Sold
+P0314,Single Family,South Bay,Sacramento,3486,1107223.32,317.62,2025-09-28,Sold
+P0315,Multi-Family,South Bay,Los Angeles,2557,686298.8,268.4,2025-04-30,Closed
+P0316,Multi-Family,North Hills,Los Angeles,3455,2489776.65,720.63,2023-02-14,Sold
+P0317,Townhouse,Downtown,Fresno,3068,702357.24,228.93,2025-05-17,Sold
+P0318,Single Family,North Hills,Sacramento,4362,986858.88,226.24,2025-08-24,Sold
+P0319,Townhouse,East Park,Sacramento,3849,1042078.26,270.74,2025-05-10,Closed
+P0320,Townhouse,Downtown,San Diego,2238,523177.26,233.77,2023-09-30,Closed
+P0321,Single Family,Downtown,San Jose,2866,760407.12,265.32,2024-04-01,Closed
+P0322,Multi-Family,Westside,San Diego,3458,2288469.82,661.79,2025-05-18,Closed
+P0323,Single Family,Downtown,Sacramento,2117,601079.81,283.93,2024-01-22,Sold
+P0324,Single Family,East Park,Fresno,1685,535947.95,318.07,2023-07-26,Sold
+P0325,Multi-Family,Westside,Fresno,1702,1150824.32,676.16,2025-04-03,Sold
+P0326,Condo,South Bay,San Jose,3789,2874714.3,758.7,2023-04-26,Sold
+P0327,Townhouse,Westside,San Jose,4041,3208513.59,793.99,2024-10-15,Sold
+P0328,Townhouse,North Hills,Los Angeles,3404,1801532.96,529.24,2025-04-26,Sold
+P0329,Single Family,North Hills,Sacramento,3264,2071856.64,634.76,2025-10-12,Sold
+P0330,Townhouse,East Park,San Diego,3552,1630154.88,458.94,2023-11-02,Closed
+P0331,Condo,East Park,Los Angeles,1687,1263664.22,749.06,2024-09-07,Closed
+P0332,Multi-Family,Westside,San Jose,2406,1331432.28,553.38,2023-10-02,Sold
+P0333,Townhouse,Downtown,Fresno,2052,1258471.08,613.29,2025-07-10,Sold
+P0334,Single Family,Westside,Fresno,911,327841.57,359.87,2023-03-22,Sold
+P0335,Townhouse,Downtown,San Diego,2663,852053.48,319.96,2024-11-12,Sold
+P0336,Condo,South Bay,San Diego,3737,966388.2,258.6,2025-09-07,Closed
+P0337,Townhouse,East Park,Sacramento,4448,1513876.8,340.35,2024-10-20,Sold
+P0338,Multi-Family,East Park,Los Angeles,1963,697355.75,355.25,2025-11-16,Closed
+P0339,Townhouse,North Hills,Sacramento,3819,2836065.78,742.62,2024-02-21,Sold
+P0340,Single Family,North Hills,Fresno,3004,2279855.76,758.94,2023-10-26,Closed
+P0341,Condo,East Park,Fresno,1909,538567.08,282.12,2024-11-06,Sold
+P0342,Townhouse,East Park,Sacramento,2745,1506812.85,548.93,2024-11-22,Closed
+P0343,Condo,Westside,Fresno,1389,931963.44,670.96,2024-12-22,Closed
+P0344,Single Family,Downtown,Los Angeles,1453,1154146.96,794.32,2023-05-01,Sold
+P0345,Single Family,Westside,Los Angeles,2389,650094.68,272.12,2024-04-18,Sold
+P0346,Multi-Family,East Park,Los Angeles,2771,1345403.63,485.53,2023-05-04,Sold
+P0347,Single Family,South Bay,San Jose,2879,1582298.4,549.6,2023-01-25,Sold
+P0348,Condo,Downtown,Los Angeles,770,397689.6,516.48,2025-05-31,Sold
+P0349,Townhouse,North Hills,San Jose,1687,520591.33,308.59,2025-12-14,Closed
+P0350,Multi-Family,South Bay,San Diego,1023,439828.62,429.94,2025-04-11,Sold
+P0351,Single Family,Downtown,Sacramento,1928,1230661.68,638.31,2023-06-15,Closed
+P0352,Single Family,Westside,Los Angeles,2244,1234895.64,550.31,2023-04-25,Closed
+P0353,Single Family,South Bay,Los Angeles,4162,1959136.64,470.72,2024-11-09,Sold
+P0354,Townhouse,Downtown,Los Angeles,1565,1226725.25,783.85,2025-08-31,Sold
+P0355,Condo,North Hills,Los Angeles,4383,2383606.89,543.83,2023-03-09,Sold
+P0356,Single Family,North Hills,San Diego,3104,858597.44,276.61,2025-03-26,Sold
+P0357,Townhouse,East Park,San Diego,3021,2233183.62,739.22,2025-03-07,Sold
+P0358,Single Family,Downtown,Sacramento,2751,1869194.46,679.46,2024-12-09,Sold
+P0359,Townhouse,Downtown,San Jose,4135,954895.55,230.93,2025-03-23,Closed
+P0360,Multi-Family,Westside,Fresno,2709,901690.65,332.85,2025-02-07,Closed
+P0361,Condo,Downtown,Los Angeles,1051,732914.85,697.35,2024-08-27,Sold
+P0362,Multi-Family,North Hills,San Jose,1331,578452.6,434.6,2023-11-12,Sold
+P0363,Multi-Family,North Hills,San Jose,1074,197057.52,183.48,2024-09-23,Sold
+P0364,Multi-Family,South Bay,Fresno,1242,296204.58,238.49,2025-06-01,Closed
+P0365,Single Family,South Bay,Fresno,1123,221904.8,197.6,2024-12-25,Sold
+P0366,Multi-Family,East Park,Los Angeles,4237,1856272.07,438.11,2024-08-20,Sold
+P0367,Condo,Westside,San Jose,3042,1609643.88,529.14,2025-02-18,Sold
+P0368,Condo,East Park,San Jose,1799,918191.61,510.39,2023-05-10,Closed
+P0369,Townhouse,North Hills,San Diego,1927,972036.61,504.43,2023-06-07,Closed
+P0370,Single Family,Westside,San Jose,3132,1857808.44,593.17,2025-07-26,Sold
+P0371,Townhouse,East Park,San Jose,2320,934008.8,402.59,2025-02-17,Closed
+P0372,Townhouse,North Hills,Fresno,4040,2956350.8,731.77,2023-10-06,Sold
+P0373,Townhouse,North Hills,Sacramento,2662,1039511.0,390.5,2025-03-26,Sold
+P0374,Townhouse,Downtown,Fresno,2034,878606.64,431.96,2025-03-15,Sold
+P0375,Single Family,East Park,San Diego,3125,2650531.25,848.17,2024-01-04,Closed
+P0376,Multi-Family,East Park,San Diego,3967,1488378.73,375.19,2023-05-22,Sold
+P0377,Multi-Family,East Park,Los Angeles,1691,590666.3,349.3,2023-11-12,Closed
+P0378,Multi-Family,South Bay,Los Angeles,3149,1577932.41,501.09,2025-03-31,Sold
+P0379,Single Family,Westside,San Jose,3573,2786904.27,779.99,2023-06-24,Sold
+P0380,Townhouse,East Park,Los Angeles,3350,1978141.5,590.49,2025-03-29,Sold
+P0381,Condo,East Park,San Jose,1103,389745.05,353.35,2025-11-11,Closed
+P0382,Condo,North Hills,Los Angeles,2596,1810632.12,697.47,2025-10-21,Closed
+P0383,Single Family,Westside,San Jose,1128,426316.32,377.94,2023-06-25,Sold
+P0384,Multi-Family,North Hills,Sacramento,2105,1021072.35,485.07,2024-02-28,Sold
+P0385,Townhouse,Downtown,San Jose,2494,1655367.56,663.74,2025-07-15,Sold
+P0386,Townhouse,Downtown,San Diego,4018,2636691.96,656.22,2023-02-16,Sold
+P0387,Townhouse,South Bay,Sacramento,2813,835123.44,296.88,2023-11-24,Closed
+P0388,Condo,East Park,Sacramento,1649,1178210.5,714.5,2024-01-13,Sold
+P0389,Multi-Family,South Bay,Sacramento,3720,2200194.0,591.45,2024-02-09,Closed
+P0390,Townhouse,Downtown,Fresno,718,468258.06,652.17,2024-02-26,Sold
+P0391,Townhouse,North Hills,San Diego,3974,3037050.02,764.23,2024-01-18,Closed
+P0392,Townhouse,South Bay,Sacramento,1166,414839.48,355.78,2025-09-29,Closed
+P0393,Multi-Family,South Bay,San Diego,3104,796300.16,256.54,2024-12-21,Sold
+P0394,Condo,North Hills,Los Angeles,4462,2640165.4,591.7,2023-06-23,Sold
+P0395,Condo,South Bay,Sacramento,1950,503802.0,258.36,2025-02-03,Closed
+P0396,Multi-Family,Westside,Sacramento,3142,855786.54,272.37,2025-02-24,Sold
+P0397,Condo,Westside,San Jose,2972,867229.6,291.8,2024-08-14,Closed
+P0398,Single Family,East Park,San Diego,3237,698933.04,215.92,2025-01-05,Sold
+P0399,Multi-Family,East Park,Sacramento,4039,1766012.36,437.24,2025-11-01,Closed
+P0400,Condo,Downtown,Fresno,3608,2679769.84,742.73,2025-09-27,Sold
+P0401,Single Family,North Hills,San Diego,3959,2731353.69,689.91,2024-08-21,Sold
+P0402,Single Family,South Bay,Los Angeles,1388,975902.8,703.1,2025-10-11,Sold
+P0403,Single Family,East Park,Fresno,3874,2106991.12,543.88,2025-01-21,Sold
+P0404,Townhouse,Downtown,Sacramento,2441,606881.42,248.62,2024-05-21,Sold
+P0405,Multi-Family,Downtown,San Diego,2127,1611564.09,757.67,2023-06-28,Sold
+P0406,Multi-Family,Westside,Fresno,4020,2710284.0,674.2,2024-12-19,Sold
+P0407,Single Family,South Bay,San Jose,3914,1246374.16,318.44,2024-02-28,Sold
+P0408,Townhouse,North Hills,Fresno,3144,1700809.68,540.97,2024-10-24,Sold
+P0409,Condo,East Park,Los Angeles,4214,2210917.24,524.66,2023-07-15,Sold
+P0410,Condo,Westside,San Jose,4251,2633281.95,619.45,2023-09-29,Sold
+P0411,Multi-Family,Westside,Fresno,3818,2845097.24,745.18,2025-03-15,Sold
+P0412,Single Family,Downtown,Sacramento,3271,1496580.63,457.53,2025-07-14,Sold
+P0413,Multi-Family,East Park,San Jose,3545,2862055.75,807.35,2025-01-25,Sold
+P0414,Multi-Family,North Hills,Los Angeles,4259,2975635.53,698.67,2023-07-10,Closed
+P0415,Multi-Family,North Hills,San Jose,1592,1319210.8,828.65,2024-03-09,Sold
+P0416,Multi-Family,North Hills,Los Angeles,2083,1138776.1,546.7,2023-09-25,Sold
+P0417,Single Family,Downtown,San Diego,1107,663690.78,599.54,2025-07-30,Closed
+P0418,Condo,Westside,San Jose,2569,463576.05,180.45,2025-05-26,Sold
+P0419,Single Family,North Hills,San Jose,4281,3445905.33,804.93,2024-07-15,Sold
+P0420,Single Family,East Park,San Jose,2223,1389864.06,625.22,2023-12-05,Sold
+P0421,Single Family,Westside,Sacramento,2458,1521944.44,619.18,2023-07-14,Sold
+P0422,Multi-Family,Downtown,Los Angeles,1243,718168.11,577.77,2025-11-29,Sold
+P0423,Condo,East Park,Los Angeles,4046,1055196.8,260.8,2025-05-14,Sold
+P0424,Single Family,North Hills,San Jose,2269,544219.65,239.85,2023-07-29,Sold
+P0425,Condo,Downtown,Fresno,1261,550325.62,436.42,2023-09-30,Sold
+P0426,Townhouse,Westside,San Diego,3199,1969016.49,615.51,2025-06-20,Closed
+P0427,Single Family,Downtown,San Diego,3223,2062720.0,640.0,2024-03-20,Sold
+P0428,Multi-Family,North Hills,San Diego,3114,2083608.54,669.11,2024-12-20,Sold
+P0429,Townhouse,Downtown,San Jose,1834,1122224.6,611.9,2024-05-23,Sold
+P0430,Multi-Family,North Hills,Los Angeles,2820,1654324.8,586.64,2024-01-22,Sold
+P0431,Multi-Family,South Bay,Los Angeles,2727,1195898.58,438.54,2024-05-08,Sold
+P0432,Multi-Family,South Bay,Sacramento,2179,1755685.67,805.73,2023-09-28,Sold
+P0433,Single Family,Downtown,Fresno,2937,1872543.09,637.57,2025-08-22,Sold
+P0434,Single Family,East Park,Fresno,756,268878.96,355.66,2023-03-23,Sold
+P0435,Multi-Family,East Park,Los Angeles,3274,2152524.04,657.46,2025-04-30,Sold
+P0436,Condo,Westside,Fresno,1836,433314.36,236.01,2023-06-11,Sold
+P0437,Townhouse,East Park,San Diego,2300,1317693.0,572.91,2023-05-16,Sold
+P0438,Single Family,East Park,Fresno,1701,404429.76,237.76,2025-06-08,Sold
+P0439,Single Family,Downtown,San Diego,1966,1231246.82,626.27,2023-12-26,Sold
+P0440,Townhouse,Westside,San Jose,1371,702774.6,512.6,2024-12-11,Sold
+P0441,Single Family,Downtown,San Jose,3771,2652332.85,703.35,2024-07-04,Closed
+P0442,Single Family,East Park,Sacramento,1814,963197.72,530.98,2024-06-22,Sold
+P0443,Townhouse,Westside,San Jose,927,477163.98,514.74,2023-12-08,Sold
+P0444,Condo,South Bay,Los Angeles,4362,2462436.24,564.52,2023-08-25,Sold
+P0445,Single Family,East Park,San Jose,4217,3197160.72,758.16,2024-05-15,Closed
+P0446,Multi-Family,Westside,San Jose,4469,1253822.64,280.56,2023-03-14,Sold
+P0447,Townhouse,Downtown,Fresno,2404,1907862.48,793.62,2024-10-17,Sold
+P0448,Condo,Westside,Fresno,1189,613963.93,516.37,2023-04-18,Sold
+P0449,Townhouse,North Hills,San Jose,2342,529713.56,226.18,2025-08-10,Sold
+P0450,Condo,North Hills,Fresno,2965,1441049.3,486.02,2025-01-25,Sold
+P0451,Townhouse,South Bay,Sacramento,3729,2227033.38,597.22,2025-08-08,Sold
+P0452,Condo,Downtown,Sacramento,3700,2898210.0,783.3,2024-05-17,Sold
+P0453,Townhouse,Downtown,Sacramento,1654,897857.36,542.84,2023-01-20,Sold
+P0454,Multi-Family,East Park,Los Angeles,1125,357165.0,317.48,2024-05-02,Sold
+P0455,Condo,South Bay,Sacramento,3614,1328072.72,367.48,2023-03-31,Sold
+P0456,Single Family,South Bay,San Diego,2577,2146512.15,832.95,2023-06-23,Closed
+P0457,Multi-Family,Westside,San Diego,1006,580029.42,576.57,2023-05-08,Sold
+P0458,Townhouse,North Hills,Sacramento,1769,1326944.59,750.11,2025-03-15,Sold
+P0459,Condo,South Bay,Los Angeles,1656,380946.24,230.04,2024-02-20,Sold
+P0460,Townhouse,East Park,Los Angeles,1132,328427.16,290.13,2025-08-12,Sold
+P0461,Multi-Family,North Hills,Los Angeles,3855,1230207.6,319.12,2024-09-23,Sold
+P0462,Single Family,Westside,San Jose,1345,969866.05,721.09,2024-09-15,Sold
+P0463,Multi-Family,South Bay,Los Angeles,1073,704403.04,656.48,2024-12-29,Sold
+P0464,Single Family,East Park,Sacramento,1765,1287496.9,729.46,2023-12-23,Sold
+P0465,Single Family,Downtown,Los Angeles,1087,532162.59,489.57,2023-10-14,Sold
+P0466,Townhouse,Downtown,Fresno,1235,386246.25,312.75,2025-03-31,Sold
+P0467,Single Family,Westside,Sacramento,4457,3229274.78,724.54,2023-02-14,Sold
+P0468,Single Family,Downtown,Sacramento,1076,846166.4,786.4,2024-11-10,Sold
+P0469,Multi-Family,East Park,Los Angeles,1388,1109247.96,799.17,2025-06-06,Closed
+P0470,Condo,Westside,San Jose,3498,1629578.28,465.86,2024-12-25,Sold
+P0471,Condo,North Hills,Sacramento,2526,1949794.14,771.89,2023-03-12,Closed
+P0472,Single Family,North Hills,Sacramento,4315,2368762.4,548.96,2023-05-05,Sold
+P0473,Condo,South Bay,Los Angeles,2417,758067.88,313.64,2025-12-12,Closed
+P0474,Multi-Family,North Hills,Fresno,3902,2567359.92,657.96,2025-09-09,Sold
+P0475,Townhouse,South Bay,San Diego,2290,827125.1,361.19,2023-02-23,Sold
+P0476,Single Family,East Park,Fresno,4369,3159486.04,723.16,2024-07-29,Sold
+P0477,Condo,Downtown,San Diego,3840,2193676.8,571.27,2024-04-21,Sold
+P0478,Condo,South Bay,Sacramento,1791,962787.87,537.57,2023-04-25,Sold
+P0479,Condo,Westside,Fresno,4137,3492993.21,844.33,2023-12-22,Sold
+P0480,Single Family,North Hills,Fresno,4002,2699469.06,674.53,2025-01-04,Sold
+P0481,Townhouse,Westside,Sacramento,3006,2451122.46,815.41,2025-10-05,Sold
+P0482,Single Family,South Bay,Sacramento,1069,232646.47,217.63,2024-03-24,Sold
+P0483,Condo,North Hills,San Diego,2058,1636089.42,794.99,2024-02-17,Sold
+P0484,Single Family,South Bay,San Jose,943,183583.24,194.68,2023-10-18,Sold
+P0485,Single Family,North Hills,San Jose,2230,1454049.2,652.04,2025-03-21,Sold
+P0486,Multi-Family,North Hills,San Diego,1258,1048958.14,833.83,2025-06-13,Sold
+P0487,Multi-Family,North Hills,San Jose,1614,1010218.74,625.91,2023-12-26,Sold
+P0488,Single Family,Westside,Fresno,1427,953692.64,668.32,2025-03-12,Sold
+P0489,Single Family,East Park,San Diego,4472,3228336.8,721.9,2024-03-28,Sold
+P0490,Townhouse,Westside,Los Angeles,3752,870951.76,232.13,2024-12-11,Sold
+P0491,Condo,Downtown,San Jose,2529,474541.56,187.64,2024-03-05,Sold
+P0492,Single Family,East Park,Sacramento,3923,990086.74,252.38,2023-01-03,Closed
+P0493,Multi-Family,North Hills,Fresno,1381,1067029.65,772.65,2025-10-06,Closed
+P0494,Condo,East Park,Los Angeles,1115,819859.5,735.3,2024-04-06,Sold
+P0495,Single Family,Downtown,San Jose,1907,368909.15,193.45,2024-06-18,Sold
+P0496,Single Family,North Hills,Fresno,4336,1871244.16,431.56,2023-06-03,Closed
+P0497,Multi-Family,Westside,Los Angeles,3585,719760.45,200.77,2023-12-04,Sold
+P0498,Multi-Family,South Bay,Fresno,2056,653232.32,317.72,2024-01-25,Sold
+P0499,Single Family,Downtown,Sacramento,3405,1255151.1,368.62,2024-05-01,Closed
+P0500,Multi-Family,Downtown,San Jose,1329,287755.08,216.52,2023-01-08,Closed
+P0501,Condo,North Hills,Los Angeles,1517,371634.66,244.98,2024-02-28,Closed
+P0502,Multi-Family,East Park,San Jose,4156,1069712.84,257.39,2025-03-25,Sold
+P0503,Townhouse,East Park,San Jose,3329,1812840.24,544.56,2024-01-14,Sold
+P0504,Multi-Family,North Hills,San Diego,2525,529972.25,209.89,2025-06-19,Sold
+P0505,Single Family,North Hills,Fresno,3011,666334.3,221.3,2023-07-18,Closed
+P0506,Multi-Family,South Bay,Sacramento,3798,2184305.76,575.12,2023-05-05,Closed
+P0507,Townhouse,Downtown,Sacramento,3045,2346811.95,770.71,2025-09-02,Sold
+P0508,Condo,Downtown,Sacramento,2756,1550856.32,562.72,2025-11-24,Sold
+P0509,Condo,Downtown,Sacramento,1384,1150588.4,831.35,2024-01-30,Sold
+P0510,Townhouse,North Hills,Los Angeles,3498,1650041.58,471.71,2023-10-30,Sold
+P0511,Townhouse,South Bay,Sacramento,2289,1265267.64,552.76,2024-10-29,Sold
+P0512,Multi-Family,Downtown,Sacramento,3921,2545826.88,649.28,2025-12-06,Sold
+P0513,Single Family,South Bay,Los Angeles,1307,731423.34,559.62,2023-07-25,Sold
+P0514,Multi-Family,North Hills,Sacramento,4253,2291814.11,538.87,2024-12-05,Closed
+P0515,Condo,North Hills,Sacramento,3043,1789284.0,588.0,2023-03-18,Sold
+P0516,Single Family,East Park,San Jose,3232,1899769.6,587.8,2025-04-02,Sold
+P0517,Townhouse,Downtown,San Jose,901,612364.65,679.65,2024-07-04,Sold
+P0518,Single Family,Westside,San Diego,1973,725728.59,367.83,2025-10-03,Sold
+P0519,Townhouse,East Park,Fresno,3746,1786392.48,476.88,2024-10-19,Sold
+P0520,Multi-Family,South Bay,San Jose,1469,699170.55,475.95,2025-04-13,Sold
+P0521,Townhouse,South Bay,Sacramento,2810,1995943.0,710.3,2023-05-15,Sold
+P0522,Condo,Westside,San Diego,3896,2923441.52,750.37,2023-03-01,Sold
+P0523,Townhouse,Westside,San Jose,1721,347917.36,202.16,2023-04-14,Sold
+P0524,Single Family,Downtown,San Diego,4073,1999965.19,491.03,2025-03-23,Sold
+P0525,Multi-Family,South Bay,Fresno,2702,1561783.02,578.01,2023-12-30,Sold
+P0526,Single Family,North Hills,Los Angeles,2110,610950.5,289.55,2024-06-13,Closed
+P0527,Condo,Westside,San Diego,903,261102.45,289.15,2024-03-14,Sold
+P0528,Single Family,East Park,San Diego,3368,1530318.16,454.37,2023-02-11,Sold
+P0529,Townhouse,South Bay,San Jose,3162,2265825.96,716.58,2024-04-03,Sold
+P0530,Multi-Family,North Hills,San Diego,2435,1899226.95,779.97,2024-12-15,Closed
+P0531,Single Family,Downtown,Fresno,1937,1227515.64,633.72,2025-03-24,Sold
+P0532,Townhouse,Downtown,Sacramento,2999,1840546.28,613.72,2024-08-01,Sold
+P0533,Townhouse,North Hills,San Jose,2077,1749249.4,842.2,2024-10-27,Sold
+P0534,Single Family,South Bay,Sacramento,1314,691939.26,526.59,2024-05-07,Sold
+P0535,Multi-Family,North Hills,San Jose,3488,954840.0,273.75,2023-02-22,Closed
+P0536,Condo,North Hills,San Diego,2357,1037409.98,440.14,2023-03-14,Closed
+P0537,Townhouse,Westside,Fresno,4413,3575633.25,810.25,2025-01-04,Sold
+P0538,Townhouse,South Bay,San Diego,1903,466977.17,245.39,2023-09-20,Sold
+P0539,Condo,North Hills,Sacramento,3380,810625.4,239.83,2024-12-28,Sold
+P0540,Multi-Family,Downtown,Sacramento,2222,787854.54,354.57,2024-08-25,Sold
+P0541,Multi-Family,Westside,Fresno,4248,2570252.4,605.05,2023-05-26,Sold
+P0542,Townhouse,East Park,Los Angeles,4253,2705205.71,636.07,2025-12-21,Sold
+P0543,Multi-Family,South Bay,Sacramento,1262,1066225.94,844.87,2024-12-02,Sold
+P0544,Single Family,East Park,San Jose,1995,1511811.0,757.8,2024-01-05,Sold
+P0545,Multi-Family,North Hills,San Diego,1983,1199933.13,605.11,2023-01-10,Sold
+P0546,Single Family,Westside,Fresno,3060,2118132.0,692.2,2025-09-29,Closed
+P0547,Multi-Family,East Park,Los Angeles,3294,1540603.8,467.7,2025-05-28,Sold
+P0548,Single Family,North Hills,Fresno,2886,905078.46,313.61,2025-02-03,Sold
+P0549,Condo,North Hills,San Jose,773,489633.66,633.42,2024-05-24,Sold
+P0550,Condo,Downtown,Los Angeles,1120,489417.6,436.98,2024-09-18,Sold
+P0551,Townhouse,East Park,San Diego,1891,918023.77,485.47,2025-12-01,Sold
+P0552,Condo,East Park,Los Angeles,4392,2232980.64,508.42,2024-01-21,Sold
+P0553,Condo,Downtown,Fresno,1618,1079529.6,667.2,2023-09-26,Sold
+P0554,Multi-Family,North Hills,Fresno,1204,512446.48,425.62,2023-03-18,Sold
+P0555,Single Family,Downtown,Los Angeles,3132,2651050.08,846.44,2023-08-10,Closed
+P0556,Multi-Family,Westside,San Diego,2519,1095185.63,434.77,2024-06-01,Sold
+P0557,Townhouse,South Bay,Fresno,1933,893007.34,461.98,2023-07-26,Sold
+P0558,Single Family,North Hills,Los Angeles,2415,1778744.1,736.54,2023-08-03,Sold
+P0559,Townhouse,South Bay,San Diego,2738,857240.42,313.09,2024-02-14,Sold
+P0560,Single Family,South Bay,Sacramento,3581,1627707.74,454.54,2023-11-25,Sold
+P0561,Condo,Downtown,Los Angeles,3518,2832658.42,805.19,2024-11-08,Sold
+P0562,Condo,Downtown,Fresno,4414,1121111.86,253.99,2025-10-08,Sold
+P0563,Condo,East Park,San Jose,3663,2435162.4,664.8,2024-06-08,Sold
+P0564,Single Family,North Hills,San Jose,2601,555443.55,213.55,2023-12-24,Sold
+P0565,Single Family,Downtown,San Diego,2444,1649260.08,674.82,2023-07-14,Sold
+P0566,Townhouse,Downtown,San Jose,2046,858378.84,419.54,2025-06-15,Sold
+P0567,Multi-Family,North Hills,Sacramento,1449,371335.23,256.27,2025-03-30,Closed
+P0568,Single Family,Westside,Los Angeles,3976,1839178.32,462.57,2023-12-08,Sold
+P0569,Multi-Family,Westside,Fresno,1124,515623.76,458.74,2025-09-15,Closed
+P0570,Condo,East Park,Sacramento,3891,1635231.66,420.26,2023-03-01,Sold
+P0571,Single Family,North Hills,San Jose,4335,1974852.6,455.56,2023-04-05,Sold
+P0572,Condo,North Hills,Fresno,3585,2730981.3,761.78,2025-12-10,Sold
+P0573,Multi-Family,North Hills,Sacramento,2472,1540921.2,623.35,2024-05-24,Sold
+P0574,Single Family,Westside,Fresno,4136,3034624.56,733.71,2023-04-22,Closed
+P0575,Single Family,East Park,San Jose,4189,2145647.69,512.21,2023-12-05,Sold
+P0576,Condo,South Bay,Sacramento,2055,1705650.0,830.0,2023-04-14,Closed
+P0577,Multi-Family,South Bay,Sacramento,4046,1365322.7,337.45,2025-07-29,Sold
+P0578,Single Family,East Park,Los Angeles,4208,2162785.76,513.97,2024-10-09,Sold
+P0579,Single Family,South Bay,Fresno,2352,1073147.04,456.27,2023-01-01,Sold
+P0580,Multi-Family,North Hills,San Jose,4345,2261963.55,520.59,2024-02-28,Sold
+P0581,Townhouse,South Bay,Fresno,4044,1331931.84,329.36,2025-07-19,Closed
+P0582,Single Family,Downtown,San Diego,3635,2254790.5,620.3,2025-07-15,Sold
+P0583,Townhouse,Downtown,Los Angeles,2098,876838.12,417.94,2024-08-20,Sold
+P0584,Single Family,North Hills,Fresno,2716,744455.6,274.1,2025-04-18,Sold
+P0585,Condo,East Park,San Diego,1468,383001.2,260.9,2025-03-15,Sold
+P0586,Single Family,East Park,Sacramento,1141,784197.89,687.29,2023-04-06,Sold
+P0587,Multi-Family,South Bay,Sacramento,2743,501722.13,182.91,2023-04-10,Sold
+P0588,Single Family,East Park,Fresno,3533,2005436.79,567.63,2023-09-20,Sold
+P0589,Condo,North Hills,Sacramento,2764,2129744.92,770.53,2025-05-07,Sold
+P0590,Condo,East Park,Fresno,1904,920412.64,483.41,2023-10-01,Sold
+P0591,Condo,Westside,San Diego,4153,2699450.0,650.0,2024-10-04,Sold
+P0592,Condo,South Bay,Fresno,3512,1444661.2,411.35,2023-09-29,Sold
+P0593,Multi-Family,South Bay,Fresno,3609,928667.88,257.32,2024-12-22,Closed
+P0594,Townhouse,East Park,Los Angeles,3461,2357183.27,681.07,2025-12-29,Sold
+P0595,Single Family,Westside,San Jose,803,349449.54,435.18,2023-04-19,Sold
+P0596,Single Family,North Hills,San Diego,1873,1194730.51,637.87,2023-10-27,Sold
+P0597,Condo,South Bay,Sacramento,2169,1573392.6,725.4,2023-07-29,Sold
+P0598,Single Family,East Park,Sacramento,2792,1969728.08,705.49,2024-08-12,Closed
+P0599,Single Family,Downtown,San Jose,3928,3275166.4,833.8,2024-10-02,Sold
+P0600,Condo,North Hills,Fresno,3241,2470063.33,762.13,2025-06-26,Sold
+P0601,Townhouse,East Park,San Diego,3879,2582211.51,665.69,2024-02-01,Sold
+P0602,Single Family,East Park,Los Angeles,1465,1208419.9,824.86,2025-11-18,Closed
+P0603,Condo,South Bay,San Jose,1843,1019031.56,552.92,2023-09-24,Sold
+P0604,Single Family,Westside,San Jose,2053,1010979.32,492.44,2023-11-14,Sold
+P0605,Multi-Family,South Bay,Fresno,3868,3112579.6,804.7,2024-09-08,Sold
+P0606,Condo,Westside,Fresno,998,703889.4,705.3,2024-10-12,Sold
+P0607,Multi-Family,Downtown,San Jose,3920,2032284.8,518.44,2025-05-01,Sold
+P0608,Townhouse,North Hills,San Jose,4318,1394498.1,322.95,2024-11-10,Sold
+P0609,Single Family,Downtown,San Jose,3782,2247453.5,594.25,2025-08-30,Closed
+P0610,Single Family,North Hills,Sacramento,1684,1323640.84,786.01,2024-05-14,Sold
+P0611,Single Family,South Bay,San Jose,2280,802377.6,351.92,2024-08-02,Closed
+P0612,Townhouse,South Bay,Los Angeles,2693,563860.34,209.38,2024-01-30,Sold
+P0613,Single Family,Downtown,San Diego,1385,1150921.15,830.99,2025-12-28,Sold
+P0614,Condo,South Bay,Sacramento,4242,2711571.24,639.22,2023-08-01,Sold
+P0615,Multi-Family,North Hills,Los Angeles,3759,2404444.35,639.65,2023-02-18,Sold
+P0616,Single Family,South Bay,San Diego,1000,216360.0,216.36,2024-05-30,Sold
+P0617,Multi-Family,North Hills,Los Angeles,2369,1042312.62,439.98,2025-04-08,Closed
+P0618,Single Family,South Bay,Los Angeles,3457,896261.82,259.26,2023-01-13,Sold
+P0619,Townhouse,North Hills,Fresno,2165,1735875.35,801.79,2023-08-06,Sold
+P0620,Multi-Family,East Park,Los Angeles,1853,1283628.69,692.73,2025-06-15,Closed
+P0621,Multi-Family,South Bay,San Jose,1340,720142.8,537.42,2023-10-07,Sold
+P0622,Single Family,South Bay,Fresno,1920,1216857.6,633.78,2025-02-03,Sold
+P0623,Single Family,North Hills,San Diego,1204,250419.96,207.99,2025-03-18,Sold
+P0624,Condo,Westside,San Diego,1567,715304.16,456.48,2025-11-15,Sold
+P0625,Single Family,Westside,Fresno,3226,2384917.28,739.28,2024-02-02,Sold
+P0626,Single Family,North Hills,Los Angeles,4187,2860558.4,683.2,2025-08-02,Sold
+P0627,Townhouse,North Hills,San Diego,1102,344121.54,312.27,2025-09-24,Sold
+P0628,Condo,North Hills,Sacramento,1109,411483.36,371.04,2023-05-23,Closed
+P0629,Condo,South Bay,Fresno,2044,1211989.8,592.95,2024-09-18,Sold
+P0630,Condo,Downtown,San Jose,4008,1570895.52,391.94,2025-05-27,Sold
+P0631,Townhouse,North Hills,San Diego,3918,1286749.56,328.42,2025-06-12,Sold
+P0632,Townhouse,North Hills,Sacramento,4295,2154243.15,501.57,2025-07-01,Sold
+P0633,Townhouse,Westside,Fresno,1419,869165.88,612.52,2023-06-17,Sold
+P0634,Single Family,Downtown,Fresno,1778,1193873.66,671.47,2023-06-06,Sold
+P0635,Condo,Downtown,Fresno,4028,2295436.36,569.87,2025-04-09,Sold
+P0636,Condo,North Hills,Sacramento,2926,2279266.22,778.97,2025-08-24,Sold
+P0637,Condo,East Park,Fresno,4351,3034126.34,697.34,2024-08-18,Sold
+P0638,Condo,South Bay,San Diego,2325,985311.75,423.79,2023-01-22,Sold
+P0639,Multi-Family,North Hills,Los Angeles,2527,724440.36,286.68,2023-10-27,Sold
+P0640,Townhouse,North Hills,San Diego,3818,1934656.96,506.72,2023-05-09,Sold
+P0641,Multi-Family,East Park,Sacramento,3438,1095140.52,318.54,2025-01-09,Sold
+P0642,Single Family,South Bay,San Jose,863,722331.0,837.0,2024-10-25,Sold
+P0643,Multi-Family,East Park,San Jose,3070,1672259.7,544.71,2023-12-23,Sold
+P0644,Multi-Family,North Hills,San Jose,2816,981544.96,348.56,2024-04-01,Closed
+P0645,Condo,East Park,San Diego,3946,1984877.46,503.01,2023-01-14,Sold
+P0646,Condo,Westside,San Diego,1015,532611.1,524.74,2024-07-29,Sold
+P0647,Condo,East Park,San Jose,2183,1273453.05,583.35,2023-08-31,Sold
+P0648,Condo,South Bay,San Diego,2672,1689772.8,632.4,2025-09-08,Closed
+P0649,Condo,Westside,Fresno,791,271518.66,343.26,2023-09-19,Sold
+P0650,Condo,North Hills,San Diego,4348,2449750.16,563.42,2023-04-25,Closed
+P0651,Townhouse,Downtown,San Diego,3154,2615896.06,829.39,2023-02-08,Closed
+P0652,Condo,Westside,Sacramento,3184,2690989.44,845.16,2025-09-13,Sold
+P0653,Townhouse,Westside,San Jose,3954,2255242.98,570.37,2024-01-08,Closed
+P0654,Multi-Family,East Park,San Diego,3143,1809425.1,575.7,2024-04-15,Sold
+P0655,Multi-Family,Westside,Fresno,767,242042.19,315.57,2025-10-29,Sold
+P0656,Single Family,Downtown,Sacramento,1426,711331.58,498.83,2023-03-21,Sold
+P0657,Multi-Family,South Bay,Sacramento,4394,2567546.02,584.33,2023-01-03,Sold
+P0658,Multi-Family,Westside,Sacramento,4283,895575.3,209.1,2025-12-21,Closed
+P0659,Multi-Family,Westside,San Jose,2135,1226899.1,574.66,2023-07-20,Closed
+P0660,Townhouse,South Bay,Fresno,3836,1288052.08,335.78,2023-06-21,Closed
+P0661,Single Family,South Bay,Los Angeles,1755,538153.2,306.64,2023-01-15,Closed
+P0662,Multi-Family,North Hills,Los Angeles,3381,1073907.03,317.63,2024-10-08,Sold
+P0663,Townhouse,South Bay,Sacramento,2445,1507489.2,616.56,2024-06-03,Sold
+P0664,Condo,East Park,Fresno,3206,1169003.78,364.63,2025-03-24,Closed
+P0665,Townhouse,North Hills,Fresno,1432,612953.28,428.04,2025-09-17,Sold
+P0666,Single Family,Westside,Sacramento,3871,2526524.28,652.68,2023-10-10,Sold
+P0667,Townhouse,South Bay,Fresno,1110,359295.9,323.69,2025-03-31,Sold
+P0668,Single Family,Westside,Sacramento,1358,598470.6,440.7,2023-01-11,Closed
+P0669,Townhouse,Downtown,Fresno,1061,236528.73,222.93,2024-03-30,Sold
+P0670,Townhouse,South Bay,Los Angeles,3667,1604312.5,437.5,2025-03-31,Sold
+P0671,Condo,South Bay,San Jose,3322,1698306.06,511.23,2023-01-22,Sold
+P0672,Condo,South Bay,San Diego,837,590294.25,705.25,2025-11-11,Sold
+P0673,Condo,Downtown,San Jose,2173,739471.9,340.3,2023-01-01,Closed
+P0674,Condo,South Bay,Los Angeles,2146,1349125.82,628.67,2025-04-10,Sold
+P0675,Townhouse,North Hills,San Jose,4464,1073190.24,240.41,2024-08-05,Sold
+P0676,Multi-Family,South Bay,Los Angeles,3183,2626770.75,825.25,2025-07-20,Sold
+P0677,Single Family,South Bay,San Jose,1416,641136.48,452.78,2023-08-07,Sold
+P0678,Townhouse,East Park,Sacramento,1179,846486.63,717.97,2024-06-11,Closed
+P0679,Multi-Family,East Park,Fresno,3853,1321540.47,342.99,2024-11-26,Sold
+P0680,Multi-Family,Westside,San Diego,2674,689624.6,257.9,2023-05-19,Sold
+P0681,Single Family,North Hills,San Diego,2389,1959338.35,820.15,2025-11-23,Sold
+P0682,Single Family,South Bay,San Diego,1080,483062.4,447.28,2024-12-01,Closed
+P0683,Condo,Westside,Sacramento,1985,827486.95,416.87,2024-07-05,Sold
+P0684,Condo,Westside,San Diego,1661,1117421.14,672.74,2024-06-27,Sold
+P0685,Single Family,Downtown,Los Angeles,4125,2452147.5,594.46,2023-11-16,Closed
+P0686,Multi-Family,North Hills,Fresno,3214,592790.16,184.44,2023-03-28,Sold
+P0687,Multi-Family,Westside,Fresno,2716,2123205.84,781.74,2024-07-16,Sold
+P0688,Single Family,South Bay,Sacramento,2329,765775.2,328.8,2023-09-20,Closed
+P0689,Multi-Family,Westside,Sacramento,2914,588103.48,201.82,2024-12-12,Sold
+P0690,Single Family,Downtown,San Diego,3560,1876832.0,527.2,2024-10-08,Closed
+P0691,Townhouse,Westside,Fresno,3079,762052.5,247.5,2025-01-10,Sold
+P0692,Townhouse,Westside,Sacramento,1671,602395.5,360.5,2024-12-03,Closed
+P0693,Townhouse,East Park,San Jose,1562,719753.98,460.79,2025-02-01,Closed
+P0694,Single Family,North Hills,San Diego,1436,808238.24,562.84,2024-04-13,Closed
+P0695,Condo,East Park,Los Angeles,4207,1830844.33,435.19,2023-10-26,Sold
+P0696,Townhouse,East Park,San Jose,2426,1248734.98,514.73,2025-11-24,Sold
+P0697,Multi-Family,Downtown,San Diego,3002,2267110.4,755.2,2023-04-08,Sold
+P0698,Single Family,East Park,San Jose,1582,1147361.32,725.26,2025-09-02,Sold
+P0699,Townhouse,Downtown,Sacramento,2178,917830.98,421.41,2024-06-11,Sold
+P0700,Condo,North Hills,San Jose,2138,1627317.32,761.14,2024-02-12,Sold
+P0701,Single Family,East Park,Fresno,3457,1804554.0,522.0,2025-07-04,Sold
+P0702,Condo,North Hills,Sacramento,2599,1567846.75,603.25,2023-10-24,Closed
+P0703,Condo,North Hills,San Diego,4177,3290389.98,787.74,2023-06-12,Sold
+P0704,Multi-Family,North Hills,Sacramento,1997,1233187.44,617.52,2024-07-01,Sold
+P0705,Multi-Family,Westside,San Diego,3763,2157102.12,573.24,2025-07-11,Sold
+P0706,Single Family,Westside,San Diego,1212,809143.32,667.61,2024-05-30,Closed
+P0707,Single Family,Downtown,Sacramento,1121,273546.42,244.02,2025-08-27,Sold
+P0708,Single Family,East Park,San Jose,1125,400320.0,355.84,2023-11-15,Sold
+P0709,Condo,Westside,Fresno,1713,1154887.47,674.19,2025-06-26,Sold
+P0710,Townhouse,East Park,Sacramento,817,166300.35,203.55,2024-12-31,Sold
+P0711,Multi-Family,South Bay,Sacramento,2946,1408335.3,478.05,2023-12-29,Sold
+P0712,Single Family,East Park,San Jose,4422,1824517.2,412.6,2024-04-10,Sold
+P0713,Single Family,Downtown,Fresno,2388,845519.16,354.07,2024-09-13,Sold
+P0714,Single Family,East Park,Sacramento,2108,784450.04,372.13,2025-12-31,Sold
+P0715,Condo,Downtown,Fresno,737,510836.81,693.13,2024-08-22,Sold
+P0716,Multi-Family,Westside,San Diego,1472,671025.92,455.86,2025-06-14,Closed
+P0717,Single Family,East Park,San Diego,4093,1774315.5,433.5,2024-06-22,Sold
+P0718,Townhouse,East Park,San Diego,1866,1146601.02,614.47,2025-12-25,Sold
+P0719,Multi-Family,South Bay,Sacramento,1447,392918.38,271.54,2023-08-15,Sold
+P0720,Townhouse,Downtown,San Diego,3569,2131585.25,597.25,2024-01-20,Sold
+P0721,Townhouse,North Hills,San Diego,2891,563253.53,194.83,2023-07-29,Closed
+P0722,Condo,Downtown,Sacramento,3678,682269.0,185.5,2023-07-04,Sold
+P0723,Townhouse,East Park,Los Angeles,2100,969276.0,461.56,2025-10-17,Sold
+P0724,Single Family,North Hills,Sacramento,1028,766045.04,745.18,2023-10-27,Sold
+P0725,Townhouse,East Park,Los Angeles,2924,1447380.0,495.0,2024-01-29,Sold
+P0726,Multi-Family,Westside,Los Angeles,3846,2533898.64,658.84,2025-02-27,Sold
+P0727,Condo,East Park,Sacramento,2587,1740197.29,672.67,2023-07-12,Sold
+P0728,Single Family,North Hills,Sacramento,2023,579124.21,286.27,2023-03-28,Sold
+P0729,Condo,Downtown,San Diego,1513,637714.37,421.49,2023-04-17,Closed
+P0730,Single Family,East Park,San Diego,2029,385712.9,190.1,2024-07-19,Sold
+P0731,Condo,North Hills,Los Angeles,872,496447.04,569.32,2025-08-31,Sold
+P0732,Single Family,Downtown,San Jose,1345,692607.75,514.95,2024-11-24,Sold
+P0733,Condo,East Park,San Diego,3572,1926593.92,539.36,2023-08-08,Sold
+P0734,Multi-Family,Westside,Los Angeles,2987,2115811.58,708.34,2024-12-12,Closed
+P0735,Single Family,East Park,Sacramento,2167,1441813.45,665.35,2024-05-28,Sold
+P0736,Condo,South Bay,San Jose,2923,1891239.46,647.02,2024-01-24,Sold
+P0737,Single Family,South Bay,San Diego,3699,1826640.18,493.82,2023-11-25,Closed
+P0738,Multi-Family,Downtown,Fresno,1911,1393138.11,729.01,2025-01-21,Closed
+P0739,Townhouse,South Bay,San Diego,3705,1127468.55,304.31,2023-02-08,Sold
+P0740,Condo,South Bay,Sacramento,3653,812573.32,222.44,2025-03-04,Sold
+P0741,Townhouse,Downtown,Los Angeles,3211,1187106.7,369.7,2025-04-19,Sold
+P0742,Condo,Downtown,San Diego,879,650090.82,739.58,2023-09-23,Sold
+P0743,Multi-Family,East Park,Fresno,2688,828925.44,308.38,2023-03-07,Sold
+P0744,Single Family,Westside,Sacramento,901,383339.46,425.46,2023-05-26,Sold
+P0745,Townhouse,South Bay,Sacramento,2617,1875551.56,716.68,2023-05-05,Sold
+P0746,Single Family,Downtown,San Jose,3953,2587831.45,654.65,2024-06-28,Sold
+P0747,Single Family,Westside,Fresno,1584,1304566.56,823.59,2023-07-18,Closed
+P0748,Condo,South Bay,Fresno,1476,456659.64,309.39,2024-05-24,Closed
+P0749,Multi-Family,East Park,Los Angeles,3756,941591.64,250.69,2025-01-03,Sold
+P0750,Townhouse,Westside,Fresno,3945,1186932.15,300.87,2025-04-02,Closed
+P0751,Townhouse,East Park,Sacramento,2143,1681526.38,784.66,2024-10-26,Sold
+P0752,Multi-Family,South Bay,San Jose,3192,1089365.76,341.28,2024-03-14,Sold
+P0753,Single Family,Downtown,San Jose,2553,1224980.46,479.82,2025-03-24,Sold
+P0754,Single Family,North Hills,San Diego,2820,762838.2,270.51,2024-09-10,Sold
+P0755,Condo,Downtown,Los Angeles,4205,1644112.95,390.99,2024-07-19,Closed
+P0756,Townhouse,South Bay,San Diego,2156,613576.04,284.59,2024-06-26,Sold
+P0757,Multi-Family,South Bay,San Diego,1749,1265261.58,723.42,2023-07-08,Sold
+P0758,Condo,East Park,Fresno,3663,1456189.02,397.54,2025-09-15,Sold
+P0759,Multi-Family,Downtown,Los Angeles,3138,1915152.78,610.31,2023-03-18,Sold
+P0760,Multi-Family,Downtown,San Diego,2125,1635102.5,769.46,2025-06-08,Sold
+P0761,Single Family,North Hills,Fresno,3296,2310067.52,700.87,2025-02-22,Sold
+P0762,Townhouse,South Bay,San Diego,2007,1087292.25,541.75,2023-11-03,Sold
+P0763,Multi-Family,South Bay,Fresno,906,571994.04,631.34,2025-03-15,Sold
+P0764,Condo,Westside,San Jose,1609,755264.6,469.4,2025-03-18,Sold
+P0765,Multi-Family,North Hills,Los Angeles,2649,1491042.63,562.87,2023-04-11,Closed
+P0766,Condo,East Park,Fresno,2755,1297908.05,471.11,2023-09-25,Sold
+P0767,Condo,Westside,Los Angeles,2698,1200232.28,444.86,2024-02-06,Sold
+P0768,Single Family,East Park,Sacramento,3881,1816851.34,468.14,2023-07-03,Sold
+P0769,Single Family,North Hills,San Diego,2126,654021.38,307.63,2024-12-06,Sold
+P0770,Condo,East Park,Los Angeles,3224,2355003.04,730.46,2025-06-24,Sold
+P0771,Single Family,Downtown,Los Angeles,1517,969651.23,639.19,2023-11-16,Sold
+P0772,Single Family,North Hills,Los Angeles,3243,2597351.13,800.91,2024-08-12,Sold
+P0773,Condo,South Bay,San Diego,2543,1260565.1,495.7,2024-11-10,Sold
+P0774,Multi-Family,South Bay,San Diego,2938,1558873.42,530.59,2024-06-13,Sold
+P0775,Single Family,North Hills,San Diego,2242,1279307.62,570.61,2025-12-14,Sold
+P0776,Single Family,East Park,Los Angeles,1863,585857.61,314.47,2024-07-09,Sold
+P0777,Single Family,Downtown,San Jose,2291,1426032.95,622.45,2025-01-07,Closed
+P0778,Single Family,North Hills,Sacramento,1646,1376813.16,836.46,2025-11-07,Sold
+P0779,Single Family,Downtown,San Diego,1463,458284.75,313.25,2025-07-26,Sold
+P0780,Single Family,North Hills,San Jose,2066,1050065.16,508.26,2023-11-18,Sold
+P0781,Townhouse,Downtown,San Jose,3260,1247145.6,382.56,2025-10-23,Closed
+P0782,Townhouse,Westside,San Diego,4347,3694819.59,849.97,2023-03-02,Sold
+P0783,Single Family,East Park,Fresno,4374,1938600.54,443.21,2023-10-09,Sold
+P0784,Multi-Family,North Hills,Fresno,2409,821565.36,341.04,2023-11-09,Sold
+P0785,Condo,South Bay,Fresno,2539,1379438.7,543.3,2024-02-28,Sold
+P0786,Condo,East Park,San Diego,4233,1153619.49,272.53,2025-12-08,Sold
+P0787,Single Family,Westside,San Jose,2000,450880.0,225.44,2025-12-27,Sold
+P0788,Multi-Family,East Park,San Jose,3678,734680.5,199.75,2024-10-14,Closed
+P0789,Condo,Westside,Los Angeles,3754,3024297.48,805.62,2024-07-14,Sold
+P0790,Condo,South Bay,San Diego,1456,287632.8,197.55,2024-06-30,Sold
+P0791,Multi-Family,Westside,Fresno,3515,694142.2,197.48,2023-06-12,Closed
+P0792,Multi-Family,East Park,Sacramento,3616,2224599.36,615.21,2024-01-12,Sold
+P0793,Multi-Family,Downtown,San Jose,1370,423987.6,309.48,2023-03-08,Closed
+P0794,Condo,Downtown,San Diego,1611,1091275.29,677.39,2024-02-20,Closed
+P0795,Multi-Family,Westside,Sacramento,4251,2522670.93,593.43,2024-10-27,Closed
+P0796,Townhouse,East Park,Fresno,3879,806909.58,208.02,2025-02-18,Sold
+P0797,Single Family,Westside,Fresno,2832,717175.68,253.24,2025-07-24,Closed
+P0798,Single Family,Westside,San Jose,3711,765579.3,206.3,2025-03-04,Closed
+P0799,Multi-Family,Westside,Sacramento,2330,1800041.5,772.55,2024-08-08,Sold
+P0800,Condo,East Park,Sacramento,3211,2555153.25,795.75,2025-11-24,Sold
+P0801,Condo,East Park,Sacramento,3659,1885994.96,515.44,2024-01-04,Sold
+P0802,Condo,East Park,Los Angeles,2546,500772.74,196.69,2025-07-18,Sold
+P0803,Single Family,Downtown,Los Angeles,2027,1304273.15,643.45,2023-12-02,Closed
+P0804,Multi-Family,South Bay,Fresno,3297,1395191.49,423.17,2025-12-08,Sold
+P0805,Condo,North Hills,Fresno,2251,1235191.23,548.73,2023-03-31,Sold
+P0806,Single Family,East Park,San Jose,1364,1039518.04,762.11,2024-01-02,Sold
+P0807,Townhouse,Westside,Los Angeles,3690,2564476.2,694.98,2025-07-02,Sold
+P0808,Single Family,East Park,Sacramento,1530,279026.1,182.37,2024-06-02,Closed
+P0809,Condo,Westside,Fresno,2926,2109616.74,720.99,2025-10-07,Closed
+P0810,Single Family,Westside,Fresno,2558,1163378.4,454.8,2023-06-12,Sold
+P0811,Single Family,Westside,San Diego,3238,1946653.22,601.19,2024-03-01,Sold
+P0812,Single Family,South Bay,Fresno,3375,1396710.0,413.84,2023-10-25,Sold
+P0813,Single Family,East Park,San Diego,2056,1637932.96,796.66,2023-04-11,Sold
+P0814,Multi-Family,South Bay,San Jose,3452,1279069.56,370.53,2023-12-30,Sold
+P0815,Townhouse,East Park,Los Angeles,1081,751186.9,694.9,2024-10-23,Closed
+P0816,Multi-Family,Westside,Los Angeles,4154,2279798.28,548.82,2024-08-22,Sold
+P0817,Condo,Westside,Fresno,2048,1091850.24,533.13,2025-12-10,Sold
+P0818,Single Family,East Park,Fresno,1147,645554.54,562.82,2025-12-19,Sold
+P0819,Townhouse,South Bay,Fresno,2449,1439840.57,587.93,2024-10-10,Sold
+P0820,Multi-Family,East Park,San Diego,4497,1200294.27,266.91,2025-10-13,Sold
+P0821,Single Family,Downtown,Los Angeles,3602,1349417.26,374.63,2024-02-01,Closed
+P0822,Multi-Family,East Park,Los Angeles,3261,2327734.41,713.81,2024-02-29,Sold
+P0823,Single Family,Westside,San Jose,2132,1184283.36,555.48,2024-03-10,Sold
+P0824,Townhouse,Downtown,Los Angeles,3936,887371.2,225.45,2024-09-06,Sold
+P0825,Condo,Westside,San Jose,2098,934344.3,445.35,2023-03-01,Sold
+P0826,Single Family,Westside,Sacramento,4477,2823017.12,630.56,2025-08-29,Sold
+P0827,Multi-Family,East Park,Los Angeles,3269,1597266.09,488.61,2024-11-17,Sold
+P0828,Single Family,Westside,Fresno,3014,2006510.22,665.73,2024-10-08,Sold
+P0829,Single Family,Westside,San Jose,3974,3154720.16,793.84,2024-12-25,Sold
+P0830,Condo,South Bay,Fresno,2089,1752712.78,839.02,2025-12-30,Closed
+P0831,Townhouse,Downtown,San Jose,1467,849070.26,578.78,2024-09-23,Closed
+P0832,Townhouse,East Park,San Jose,1055,541246.65,513.03,2024-05-01,Sold
+P0833,Townhouse,Downtown,San Diego,2850,1090267.5,382.55,2023-08-18,Sold
+P0834,Condo,Westside,San Jose,2517,1306373.34,519.02,2025-09-15,Closed
+P0835,Townhouse,Westside,Los Angeles,3700,2832350.0,765.5,2024-09-27,Sold
+P0836,Multi-Family,South Bay,Los Angeles,1540,1024808.4,665.46,2025-07-29,Sold
+P0837,Townhouse,East Park,Los Angeles,1973,1587613.91,804.67,2023-06-28,Sold
+P0838,Single Family,South Bay,San Jose,2832,1963538.88,693.34,2024-10-01,Sold
+P0839,Townhouse,South Bay,San Jose,2014,633141.18,314.37,2024-08-09,Closed
+P0840,Condo,North Hills,Los Angeles,3448,892445.84,258.83,2023-11-02,Sold
+P0841,Condo,South Bay,San Jose,3251,1804142.45,554.95,2023-07-29,Sold
+P0842,Condo,Westside,Los Angeles,1810,497460.4,274.84,2024-08-03,Sold
+P0843,Single Family,Westside,Los Angeles,3211,2497515.8,777.8,2025-06-27,Closed
+P0844,Multi-Family,Downtown,Los Angeles,4399,2782719.42,632.58,2023-08-05,Closed
+P0845,Townhouse,North Hills,San Jose,2305,691315.6,299.92,2025-07-02,Sold
+P0846,Single Family,East Park,Fresno,3620,2491030.6,688.13,2025-12-28,Sold
+P0847,Single Family,East Park,San Jose,1080,782578.8,724.61,2025-08-17,Closed
+P0848,Condo,South Bay,San Jose,2627,880675.48,335.24,2024-04-03,Sold
+P0849,Townhouse,East Park,Sacramento,2305,698069.25,302.85,2024-11-07,Sold
+P0850,Multi-Family,East Park,San Diego,967,482020.49,498.47,2024-12-20,Sold
+P0851,Single Family,East Park,Los Angeles,3845,1590176.65,413.57,2023-09-18,Sold
+P0852,Multi-Family,East Park,Fresno,2977,1831242.01,615.13,2024-09-10,Closed
+P0853,Multi-Family,East Park,Los Angeles,1677,999475.23,595.99,2023-11-22,Sold
+P0854,Multi-Family,South Bay,San Jose,1552,1125696.64,725.32,2025-06-01,Sold
+P0855,Multi-Family,Downtown,Fresno,1408,878521.6,623.95,2023-06-09,Closed
+P0856,Condo,North Hills,Sacramento,2032,1121481.12,551.91,2025-06-30,Sold
+P0857,Townhouse,East Park,Los Angeles,3150,796509.0,252.86,2025-02-15,Sold
+P0858,Condo,Westside,Sacramento,1591,1157309.31,727.41,2023-01-01,Sold
+P0859,Condo,Westside,San Jose,2297,1360811.71,592.43,2025-07-04,Sold
+P0860,Multi-Family,North Hills,Los Angeles,3035,2161557.35,712.21,2024-09-15,Sold
+P0861,Condo,North Hills,Los Angeles,3204,2694243.6,840.9,2025-04-07,Sold
+P0862,Single Family,South Bay,San Jose,4390,2404622.5,547.75,2023-04-19,Sold
+P0863,Condo,East Park,Fresno,4227,1560101.16,369.08,2023-03-05,Closed
+P0864,Multi-Family,East Park,Sacramento,3260,1281669.0,393.15,2025-02-22,Sold
+P0865,Condo,South Bay,Sacramento,3413,1010862.34,296.18,2023-10-12,Sold
+P0866,Condo,Westside,Los Angeles,4140,1902537.0,459.55,2024-08-13,Sold
+P0867,Multi-Family,Westside,Los Angeles,3355,639194.6,190.52,2025-09-23,Sold
+P0868,Multi-Family,South Bay,San Diego,3330,2397533.4,719.98,2025-07-22,Closed
+P0869,Multi-Family,North Hills,San Diego,2786,1293149.76,464.16,2025-07-10,Sold
+P0870,Condo,South Bay,San Jose,2439,1426961.34,585.06,2025-10-17,Closed
+P0871,Single Family,Downtown,Fresno,4495,2453955.35,545.93,2025-01-21,Closed
+P0872,Single Family,Westside,Fresno,3587,1531469.65,426.95,2025-09-13,Sold
+P0873,Single Family,Westside,Sacramento,2604,1370641.44,526.36,2025-12-07,Sold
+P0874,Single Family,North Hills,Fresno,3501,2116599.57,604.57,2024-10-01,Sold
+P0875,Townhouse,East Park,San Jose,2620,1268604.0,484.2,2025-08-18,Sold
+P0876,Townhouse,Downtown,Sacramento,1884,550561.32,292.23,2024-09-14,Sold
+P0877,Single Family,North Hills,Sacramento,3046,653641.14,214.59,2024-08-20,Sold
+P0878,Townhouse,Westside,Fresno,1219,632356.25,518.75,2024-07-23,Sold
+P0879,Single Family,South Bay,San Diego,1827,1378964.79,754.77,2023-01-30,Sold
+P0880,Townhouse,Westside,Sacramento,3399,1629004.74,479.26,2023-12-26,Sold
+P0881,Townhouse,Downtown,San Diego,3974,2119532.9,533.35,2023-03-09,Sold
+P0882,Multi-Family,Westside,Sacramento,4130,2115757.7,512.29,2025-04-25,Sold
+P0883,Single Family,North Hills,Los Angeles,1563,886377.3,567.1,2024-12-07,Sold
+P0884,Townhouse,East Park,Fresno,1386,680373.54,490.89,2025-09-02,Sold
+P0885,Multi-Family,North Hills,San Diego,2255,1438577.25,637.95,2025-03-09,Closed
+P0886,Multi-Family,North Hills,Fresno,748,279370.52,373.49,2025-07-08,Sold
+P0887,Multi-Family,South Bay,San Jose,1098,872767.26,794.87,2024-12-25,Sold
+P0888,Townhouse,South Bay,Sacramento,1807,648622.65,358.95,2023-07-21,Closed
+P0889,Condo,South Bay,San Jose,3866,2445051.7,632.45,2024-05-10,Sold
+P0890,Single Family,Downtown,Sacramento,1983,1084502.7,546.9,2023-01-18,Sold
+P0891,Townhouse,Westside,San Jose,2851,711666.62,249.62,2025-07-02,Sold
+P0892,Single Family,South Bay,San Diego,1490,302186.9,202.81,2023-07-08,Sold
+P0893,Condo,East Park,Fresno,3600,2958192.0,821.72,2023-06-26,Sold
+P0894,Townhouse,North Hills,Sacramento,4370,1111159.9,254.27,2024-01-13,Sold
+P0895,Multi-Family,North Hills,San Jose,3316,1604313.96,483.81,2024-07-20,Sold
+P0896,Multi-Family,East Park,San Jose,3897,894673.26,229.58,2023-05-08,Sold
+P0897,Condo,East Park,Los Angeles,1757,1441196.82,820.26,2024-06-26,Closed
+P0898,Multi-Family,Downtown,San Diego,1521,895716.9,588.9,2024-01-01,Closed
+P0899,Multi-Family,North Hills,Los Angeles,1594,942627.84,591.36,2023-08-06,Sold
+P0900,Multi-Family,Downtown,Sacramento,998,226725.64,227.18,2024-05-28,Sold
+P0901,Multi-Family,North Hills,San Diego,3374,2054833.48,609.02,2023-03-19,Sold
+P0902,Multi-Family,East Park,Sacramento,4405,1947846.95,442.19,2023-01-08,Closed
+P0903,Condo,Downtown,Sacramento,4157,2775213.2,667.6,2023-05-24,Closed
+P0904,Townhouse,North Hills,Sacramento,1196,669819.8,560.05,2025-01-05,Sold
+P0905,Townhouse,South Bay,San Jose,3289,2789072.0,848.0,2023-07-05,Sold
+P0906,Condo,Westside,Fresno,4145,2022594.2,487.96,2024-08-16,Sold
+P0907,Multi-Family,Downtown,San Jose,2273,1415374.37,622.69,2024-09-04,Closed
+P0908,Condo,Westside,Los Angeles,1047,809425.23,773.09,2025-06-15,Sold
+P0909,Multi-Family,East Park,Los Angeles,803,531770.69,662.23,2024-05-03,Sold
+P0910,Single Family,Downtown,San Jose,2746,1476634.04,537.74,2025-07-09,Sold
+P0911,Multi-Family,Downtown,San Diego,2083,1474368.23,707.81,2023-03-29,Closed
+P0912,Condo,Downtown,Los Angeles,3477,2653055.31,763.03,2023-11-02,Sold
+P0913,Single Family,Westside,San Diego,2702,1670025.14,618.07,2025-08-23,Sold
+P0914,Single Family,East Park,Fresno,1405,848451.4,603.88,2024-09-21,Sold
+P0915,Single Family,East Park,Fresno,4121,2373696.0,576.0,2023-08-06,Sold
+P0916,Townhouse,East Park,San Jose,958,688782.84,718.98,2025-05-22,Sold
+P0917,Townhouse,Westside,Los Angeles,3502,1981781.8,565.9,2023-10-09,Sold
+P0918,Condo,East Park,San Diego,2074,461174.64,222.36,2024-07-14,Sold
+P0919,Single Family,Westside,Los Angeles,2966,861771.3,290.55,2024-05-13,Closed
+P0920,Single Family,Downtown,Los Angeles,3885,1109905.65,285.69,2025-09-24,Sold
+P0921,Multi-Family,East Park,San Diego,4493,1077061.96,239.72,2024-08-04,Sold
+P0922,Multi-Family,East Park,San Diego,1286,782762.48,608.68,2025-12-07,Sold
+P0923,Multi-Family,South Bay,Los Angeles,3200,2058944.0,643.42,2024-01-04,Sold
+P0924,Condo,Downtown,Fresno,2124,978293.16,460.59,2024-04-27,Sold
+P0925,Condo,East Park,San Diego,3235,1366690.45,422.47,2025-11-05,Sold
+P0926,Multi-Family,East Park,San Diego,917,284077.43,309.79,2023-11-02,Sold
+P0927,Townhouse,North Hills,San Diego,3444,2748966.36,798.19,2023-04-21,Closed
+P0928,Single Family,Downtown,Los Angeles,1729,698481.42,403.98,2025-07-17,Sold
+P0929,Single Family,Downtown,San Diego,1347,951359.16,706.28,2025-09-20,Closed
+P0930,Condo,North Hills,San Diego,3127,1777511.88,568.44,2025-05-08,Sold
+P0931,Multi-Family,Westside,Sacramento,2035,676861.35,332.61,2024-04-30,Sold
+P0932,Single Family,East Park,San Diego,1001,496055.56,495.56,2025-09-19,Sold
+P0933,Multi-Family,North Hills,San Diego,4500,2647440.0,588.32,2023-12-31,Closed
+P0934,Townhouse,Westside,San Jose,3648,1131171.84,310.08,2025-01-04,Sold
+P0935,Townhouse,Westside,Los Angeles,831,534981.18,643.78,2023-05-03,Closed
+P0936,Condo,North Hills,Fresno,2578,1186421.38,460.21,2024-12-04,Sold
+P0937,Condo,Downtown,Sacramento,3933,2801711.88,712.36,2023-12-15,Closed
+P0938,Multi-Family,North Hills,Los Angeles,4231,3584080.1,847.1,2025-08-27,Closed
+P0939,Townhouse,East Park,Fresno,3715,2840637.6,764.64,2024-05-22,Sold
+P0940,Single Family,East Park,Los Angeles,4352,3487736.32,801.41,2023-11-02,Sold
+P0941,Single Family,East Park,Fresno,2627,1763846.61,671.43,2025-10-29,Closed
+P0942,Multi-Family,East Park,San Diego,2663,1924044.13,722.51,2023-07-20,Sold
+P0943,Condo,Westside,San Jose,2987,2044780.72,684.56,2025-04-12,Sold
+P0944,Single Family,East Park,San Jose,1679,1030771.68,613.92,2023-07-05,Sold
+P0945,Multi-Family,East Park,San Diego,3580,1746037.6,487.72,2023-02-19,Closed
+P0946,Multi-Family,Downtown,Los Angeles,1457,1033318.97,709.21,2025-01-28,Closed
+P0947,Single Family,North Hills,Sacramento,4359,2801965.2,642.8,2025-12-23,Sold
+P0948,Single Family,South Bay,San Jose,3559,2896598.92,813.88,2024-02-29,Sold
+P0949,Single Family,Downtown,Sacramento,2808,2283942.96,813.37,2025-01-15,Sold
+P0950,Townhouse,Westside,Fresno,2606,1550100.92,594.82,2025-01-18,Sold
+P0951,Condo,North Hills,San Diego,2996,1963158.96,655.26,2024-02-24,Sold
+P0952,Condo,North Hills,San Jose,3358,1680981.22,500.59,2024-03-05,Sold
+P0953,Single Family,Downtown,San Jose,2762,1755941.5,635.75,2024-07-21,Sold
+P0954,Single Family,East Park,Fresno,2553,1291230.81,505.77,2025-12-14,Sold
+P0955,Condo,East Park,Los Angeles,2551,1520498.04,596.04,2023-05-15,Sold
+P0956,Single Family,Downtown,San Diego,2300,1797726.0,781.62,2024-08-13,Sold
+P0957,Condo,Westside,Fresno,1158,749283.9,647.05,2025-10-13,Sold
+P0958,Multi-Family,North Hills,Sacramento,1900,872252.0,459.08,2023-09-28,Closed
+P0959,Condo,Downtown,Los Angeles,3721,2277028.74,611.94,2024-08-20,Sold
+P0960,Multi-Family,South Bay,San Jose,4119,3356120.01,814.79,2024-11-18,Sold
+P0961,Multi-Family,East Park,San Jose,2691,1554187.05,577.55,2025-12-21,Sold
+P0962,Townhouse,Westside,Sacramento,4379,3104097.94,708.86,2023-12-18,Sold
+P0963,Condo,North Hills,San Jose,1880,1307972.4,695.73,2023-04-07,Closed
+P0964,Townhouse,Westside,San Diego,1381,820976.88,594.48,2023-11-26,Sold
+P0965,Townhouse,South Bay,San Diego,1360,461584.0,339.4,2023-03-26,Closed
+P0966,Single Family,North Hills,San Jose,1766,755282.88,427.68,2024-02-25,Sold
+P0967,Townhouse,Downtown,Los Angeles,2227,1069962.15,480.45,2023-11-29,Closed
+P0968,Townhouse,Westside,Los Angeles,2745,1907527.95,694.91,2025-07-27,Sold
+P0969,Townhouse,South Bay,San Diego,3351,2187030.15,652.65,2025-08-28,Closed
+P0970,Single Family,Westside,Fresno,2087,1339290.51,641.73,2025-09-07,Sold
+P0971,Multi-Family,North Hills,Los Angeles,1961,385552.21,196.61,2024-03-27,Sold
+P0972,Condo,North Hills,San Diego,925,543400.5,587.46,2024-02-04,Sold
+P0973,Single Family,South Bay,Sacramento,1042,563451.08,540.74,2025-07-01,Sold
+P0974,Single Family,North Hills,Sacramento,2708,1063973.2,392.9,2025-11-13,Sold
+P0975,Multi-Family,North Hills,Los Angeles,3632,2731445.6,752.05,2025-01-27,Sold
+P0976,Single Family,Westside,Sacramento,2112,877345.92,415.41,2025-07-01,Closed
+P0977,Multi-Family,East Park,San Diego,3991,1901631.68,476.48,2023-12-02,Sold
+P0978,Townhouse,Downtown,Fresno,1288,411155.36,319.22,2025-08-30,Closed
+P0979,Multi-Family,Westside,Fresno,1062,195864.66,184.43,2024-07-13,Closed
+P0980,Condo,Westside,Sacramento,3609,2022844.5,560.5,2023-10-08,Sold
+P0981,Townhouse,East Park,Fresno,2968,1509791.92,508.69,2024-09-10,Closed
+P0982,Condo,North Hills,San Jose,1619,320529.62,197.98,2023-01-06,Closed
+P0983,Multi-Family,Westside,Sacramento,1208,746604.4,618.05,2024-08-12,Sold
+P0984,Multi-Family,Downtown,Fresno,816,212135.52,259.97,2024-07-21,Sold
+P0985,Townhouse,East Park,Los Angeles,3080,1545944.4,501.93,2025-06-12,Sold
+P0986,Townhouse,Westside,Fresno,2799,1878352.92,671.08,2023-02-05,Sold
+P0987,Townhouse,Westside,Los Angeles,1298,511658.62,394.19,2023-10-05,Sold
+P0988,Single Family,North Hills,San Jose,2179,1004671.53,461.07,2024-12-30,Sold
+P0989,Single Family,South Bay,San Diego,2804,868847.44,309.86,2024-01-11,Sold
+P0990,Townhouse,North Hills,Los Angeles,4273,1674417.78,391.86,2024-09-08,Sold
+P0991,Townhouse,North Hills,Sacramento,4072,1125052.88,276.29,2023-10-08,Closed
+P0992,Single Family,Westside,San Diego,2093,1668141.93,797.01,2023-11-30,Sold
+P0993,Single Family,East Park,Sacramento,4106,1257421.44,306.24,2025-12-12,Sold
+P0994,Multi-Family,North Hills,San Jose,1177,857597.51,728.63,2023-02-05,Sold
+P0995,Townhouse,Westside,San Jose,1269,923095.98,727.42,2025-12-07,Sold
+P0996,Condo,Westside,San Diego,3749,2720874.24,725.76,2024-03-31,Sold
+P0997,Multi-Family,Downtown,Los Angeles,1213,388875.67,320.59,2023-06-10,Sold
+P0998,Single Family,Westside,Los Angeles,3873,1953734.85,504.45,2025-06-02,Sold
+P0999,Multi-Family,Downtown,San Jose,3948,2455892.88,622.06,2023-05-02,Sold
+P1000,Single Family,Downtown,Fresno,971,371019.1,382.1,2023-01-22,Sold
