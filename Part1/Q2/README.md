@@ -64,3 +64,15 @@ The application generates:
 
 ```text
 rbcapp1.service.status
+
+### OTLP Export Configuration
+
+By default, traces and metrics are exported to the local OpenTelemetry Collector over OTLP gRPC:
+
+```bash
+export OTEL_EXPORTER_OTLP_ENDPOINT=http://localhost:4317
+```
+
+The application also supports overriding the endpoint through the `OTEL_EXPORTER_OTLP_ENDPOINT` environment variable.
+
+The OpenTelemetry Collector is expected to receive OTLP telemetry on port `4317`.
