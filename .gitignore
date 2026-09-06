@@ -4,3 +4,7 @@ __pycache__/
 logs/
 *.backup
 *.save
+
+# Generated runtime outputs
+Part1/Q1/output/*.json
+Part3/Q1/output/*
