@@ -1,0 +1,75 @@
+{
+  "platform-admin": {
+    "cluster": [
+      "monitor",
+      "manage_ilm",
+      "manage_index_templates"
+    ],
+    "indices": [
+      {
+        "names": ["rbcapp1-*"],
+        "privileges": ["read", "write", "manage"]
+      },
+      {
+        "names": ["audit-logs-rbcapp1*"],
+        "privileges": ["read", "view_index_metadata"]
+      }
+    ],
+    "applications": [],
+    "run_as": [],
+    "metadata": {
+      "description": "Platform administrator with controlled application and audit access"
+    }
+  },
+
+  "observability-engineer": {
+    "cluster": [
+      "monitor"
+    ],
+    "indices": [
+      {
+        "names": ["rbcapp1-*"],
+        "privileges": ["read", "write", "view_index_metadata"]
+      }
+    ],
+    "applications": [],
+    "run_as": [],
+    "metadata": {
+      "description": "Engineer access for application observability and troubleshooting"
+    }
+  },
+
+  "read-only-analyst": {
+    "cluster": [
+      "monitor"
+    ],
+    "indices": [
+      {
+        "names": ["rbcapp1-*"],
+        "privileges": ["read", "view_index_metadata"]
+      }
+    ],
+    "applications": [],
+    "run_as": [],
+    "metadata": {
+      "description": "Read-only access to application observability data"
+    }
+  },
+
+  "compliance-auditor": {
+    "cluster": [
+      "monitor"
+    ],
+    "indices": [
+      {
+        "names": ["audit-logs-rbcapp1*"],
+        "privileges": ["read", "view_index_metadata"]
+      }
+    ],
+    "applications": [],
+    "run_as": [],
+    "metadata": {
+      "description": "Read-only access to security audit logs for compliance review"
+    }
+  }
+}
