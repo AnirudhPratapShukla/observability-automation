@@ -1,0 +1,113 @@
+{
+  "name": "rbcapp1-fleet-policy",
+  "description": "Fleet policy for rbcapp1 hosts collecting system logs, service metrics, and application logs",
+  "namespace": "default",
+  "monitoring_enabled": true,
+  "inputs": [
+    {
+      "type": "system/metrics",
+      "name": "system-metrics",
+      "enabled": true,
+      "streams": [
+        {
+          "data_stream": {
+            "type": "metrics",
+            "dataset": "system.cpu"
+          },
+          "metricsets": [
+            "cpu"
+          ],
+          "period": "30s"
+        },
+        {
+          "data_stream": {
+            "type": "metrics",
+            "dataset": "system.memory"
+          },
+          "metricsets": [
+            "memory"
+          ],
+          "period": "30s"
+        },
+        {
+          "data_stream": {
+            "type": "metrics",
+            "dataset": "system.disk"
+          },
+          "metricsets": [
+            "disk"
+          ],
+          "period": "30s"
+        }
+      ]
+    },
+    {
+      "type": "logfile",
+      "name": "system-logs",
+      "enabled": true,
+      "streams": [
+        {
+          "paths": [
+            "/var/log/syslog"
+          ],
+          "data_stream": {
+            "type": "logs",
+            "dataset": "system.syslog"
+          }
+        },
+        {
+          "paths": [
+            "/var/log/auth.log"
+          ],
+          "data_stream": {
+            "type": "logs",
+            "dataset": "system.auth"
+          }
+        }
+      ]
+    },
+    {
+      "type": "logfile",
+      "name": "rbcapp1-logs",
+      "enabled": true,
+      "streams": [
+        {
+          "paths": [
+            "/var/log/rbcapp1/*.log"
+          ],
+          "data_stream": {
+            "type": "logs",
+            "dataset": "rbcapp1.application"
+          }
+        }
+      ]
+    }
+  ],
+  "service_monitoring": {
+    "enabled": true,
+    "services": [
+      "httpd",
+      "rabbitMQ",
+      "postgreSQL"
+    ],
+    "metrics": [
+      "cpu",
+      "memory",
+      "disk"
+    ]
+  },
+  "hosts": [
+    {
+      "name": "host1",
+      "address": "10.0.1.10"
+    },
+    {
+      "name": "host2",
+      "address": "10.0.1.11"
+    },
+    {
+      "name": "host3",
+      "address": "10.0.1.12"
+    }
+  ]
+}

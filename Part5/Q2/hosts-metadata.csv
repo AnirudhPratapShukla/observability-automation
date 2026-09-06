@@ -1,0 +1,4 @@
+host_name,environment
+host1,prod
+host2,staging
+host3,dev
